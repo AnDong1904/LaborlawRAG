@@ -1,0 +1,2167 @@
+[1] CHUONG I - NHỮNG QUY ĐỊNH CHUNG
+    Preview: NHỮNG QUY ĐỊNH CHUNG
+    [2] DIEU 1 - Phạm vi điều chỉnh
+        Preview: Bộ luật Lao động quy định tiêu chuẩn lao động; quyền, nghĩa vụ, trách nhiệm của 
+    [3] DIEU 2 - Đối tượng áp dụng
+        [4] KHOAN 1 - Khoản 1
+            Preview: Người lao động, người học nghề, người tập nghề và người làm việc không có quan h
+        [5] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động.
+        [6] KHOAN 3 - Khoản 3
+            Preview: Người lao động nước ngoài làm việc tại Việt Nam.
+        [7] KHOAN 4 - Khoản 4
+            Preview: Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động.
+    [8] DIEU 3 - Giải thích từ ngữ
+        Preview: Trong Bộ luật này, các từ ngữ dưới đây được hiểu như sau:
+        [9] KHOAN 1 - Khoản 1
+            Preview: Người lao động là người làm việc cho người sử dụng lao động theo thỏa thuận, đượ
+        [10] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động là doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đìn
+        [11] KHOAN 3 - Khoản 3
+            Preview: Tổ chức đại diện người lao động tại cơ sở là tổ chức được thành lập trên cơ sở t
+        [12] KHOAN 4 - Khoản 4
+            Preview: Tổ chức đại diện người sử dụng lao động là tổ chức được thành lập hợp pháp, đại 
+        [13] KHOAN 5 - Khoản 5
+            Preview: Quan hệ lao động là quan hệ xã hội phát sinh trong việc thuê mướn, sử dụng lao đ
+        [14] KHOAN 6 - Khoản 6
+            Preview: Người làm việc không có quan hệ lao động là người làm việc không trên cơ sở thuê
+        [15] KHOAN 7 - Khoản 7
+            Preview: Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khá
+        [16] KHOAN 8 - Khoản 8
+            Preview: Phân biệt đối xử trong lao động là hành vi phân biệt, loại trừ hoặc ưu tiên dựa 
+        [17] KHOAN 9 - Khoản 9
+            Preview: Quấy rối tình dục tại nơi làm việc là hành vi có tính chất tình dục của bất kỳ n
+    [18] DIEU 4 - Chính sách của Nhà nước về lao động
+        [19] KHOAN 1 - Khoản 1
+            Preview: Bảo đảm quyền và lợi ích hợp pháp, chính đáng của người lao động, người làm việc
+        [20] KHOAN 2 - Khoản 2
+            Preview: Bảo đảm quyền và lợi ích hợp pháp của người sử dụng lao động, quản lý lao động đ
+        [21] KHOAN 3 - Khoản 3
+            Preview: Tạo điều kiện thuận lợi đối với hoạt động tạo việc làm, tự tạo việc làm, dạy ngh
+        [22] KHOAN 4 - Khoản 4
+            Preview: Có chính sách phát triển, phân bố nguồn nhân lực; nâng cao năng suất lao động; đ
+        [23] KHOAN 5 - Khoản 5
+            Preview: Có chính sách phát triển thị trường lao động, đa dạng các hình thức kết nối cung
+        [24] KHOAN 6 - Khoản 6
+            Preview: Thúc đẩy người lao động và người sử dụng lao động đối thoại, thương lượng tập th
+        [25] KHOAN 7 - Khoản 7
+            Preview: Bảo đảm bình đẳng giới; quy định chế độ lao động và chính sách xã hội nhằm bảo v
+    [26] DIEU 5 - Quyền và nghĩa vụ của người lao động
+        [27] KHOAN 1 - Khoản 1
+            Preview: Người lao động có các quyền sau đây:
+            [28] DIEM a - Điểm a
+                Preview: Làm việc; tự do lựa chọn việc làm, nơi làm việc, nghề nghiệp, học nghề, nâng cao
+            [29] DIEM b - Điểm b
+                Preview: Hưởng lương phù hợp với trình độ, kỹ năng nghề trên cơ sở thỏa thuận với người s
+            [30] DIEM c - Điểm c
+                Preview: Thành lập, gia nhập, hoạt động trong tổ chức đại diện người lao động, tổ chức ng
+            [31] DIEM d - Điểm d
+                Preview: Từ chối làm việc nếu có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe
+            [32] DIEM đ - Điểm đ
+                Preview: Đơn phương chấm dứt hợp đồng lao động;
+            [33] DIEM e - Điểm e
+                Preview: Đình công;
+            [34] DIEM g - Điểm g
+                Preview: Các quyền khác theo quy định của pháp luật.
+        [35] KHOAN 2 - Khoản 2
+            Preview: Người lao động có các nghĩa vụ sau đây:
+            [36] DIEM a - Điểm a
+                Preview: Thực hiện hợp đồng lao động, thỏa ước lao động tập thể và thỏa thuận hợp pháp kh
+            [37] DIEM b - Điểm b
+                Preview: Chấp hành kỷ luật lao động, nội quy lao động; tuân theo sự quản lý, điều hành, g
+            [38] DIEM c - Điểm c
+                Preview: Thực hiện quy định của pháp luật về lao động, việc làm, giáo dục nghề nghiệp, bả
+    [39] DIEU 6 - Quyền và nghĩa vụ của người sử dụng lao động
+        [40] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động có các quyền sau đây:
+            [41] DIEM a - Điểm a
+                Preview: Tuyển dụng, bố trí, quản lý, điều hành, giám sát lao động; khen thưởng và xử lý 
+            [42] DIEM b - Điểm b
+                Preview: Thành lập, gia nhập, hoạt động trong tổ chức đại diện người sử dụng lao động, tổ
+            [43] DIEM c - Điểm c
+                Preview: Yêu cầu tổ chức đại diện người lao động thương lượng với mục đích ký kết thỏa ướ
+            [44] DIEM d - Điểm d
+                Preview: Đóng cửa tạm thời nơi làm việc;
+            [45] DIEM đ - Điểm đ
+                Preview: Các quyền khác theo quy định của pháp luật.
+        [46] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động có các nghĩa vụ sau đây:
+            [47] DIEM a - Điểm a
+                Preview: Thực hiện hợp đồng lao động, thỏa ước lao động tập thể và thỏa thuận hợp pháp kh
+            [48] DIEM b - Điểm b
+                Preview: Thiết lập cơ chế và thực hiện đối thoại, trao đổi với người lao động và tổ chức 
+            [49] DIEM c - Điểm c
+                Preview: Đào tạo, đào tạo lại, bồi dưỡng nâng cao trình độ, kỹ năng nghề nhằm duy trì, ch
+            [50] DIEM d - Điểm d
+                Preview: Thực hiện quy định của pháp luật về lao động, việc làm, giáo dục nghề nghiệp, bả
+            [51] DIEM đ - Điểm đ
+                Preview: Tham gia phát triển tiêu chuẩn kỹ năng nghề quốc gia, đánh giá, công nhận kỹ năn
+    [52] DIEU 7 - Xây dựng quan hệ lao động
+        [53] KHOAN 1 - Khoản 1
+            Preview: Quan hệ lao động được xác lập qua đối thoại, thương lượng, thỏa thuận theo nguyê
+        [54] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động, tổ chức đại diện người sử dụng lao động và người lao độn
+        [55] KHOAN 3 - Khoản 3
+            Preview: Công đoàn tham gia cùng với cơ quan nhà nước có thẩm quyền hỗ trợ xây dựng quan 
+        [56] KHOAN 4 - Khoản 4
+            Preview: Phòng Thương mại và Công nghiệp Việt Nam, Liên minh Hợp tác xã Việt Nam và các t
+    [57] DIEU 8 - Các hành vi bị nghiêm cấm trong lĩnh vực lao động
+        [58] KHOAN 1 - Khoản 1
+            Preview: Phân biệt đối xử trong lao động.
+        [59] KHOAN 2 - Khoản 2
+            Preview: Ngược đãi người lao động, cưỡng bức lao động.
+        [60] KHOAN 3 - Khoản 3
+            Preview: Quấy rối tình dục tại nơi làm việc.
+        [61] KHOAN 4 - Khoản 4
+            Preview: Lợi dụng danh nghĩa dạy nghề, tập nghề để trục lợi, bóc lột sức lao động hoặc lô
+        [62] KHOAN 5 - Khoản 5
+            Preview: Sử dụng lao động chưa qua đào tạo hoặc chưa có chứng chỉ kỹ năng nghề quốc gia đ
+        [63] KHOAN 6 - Khoản 6
+            Preview: Lôi kéo, dụ dỗ, hứa hẹn, quảng cáo gian dối hoặc thủ đoạn khác để lừa gạt người 
+        [64] KHOAN 7 - Khoản 7
+            Preview: Sử dụng lao động chưa thành niên trái pháp luật.
+[65] CHUONG II - VIỆC LÀM, TUYỂN DỤNG VÀ QUẢN LÝ LAO ĐỘNG
+    Preview: VIỆC LÀM, TUYỂN DỤNG VÀ QUẢN LÝ LAO ĐỘNG
+    [66] DIEU 9 - Việc làm, giải quyết việc làm
+        [67] KHOAN 1 - Khoản 1
+            Preview: Việc làm là hoạt động lao động tạo ra thu nhập mà pháp luật không cấm.
+        [68] KHOAN 2 - Khoản 2
+            Preview: Nhà nước, người sử dụng lao động và xã hội có trách nhiệm tham gia giải quyết vi
+    [69] DIEU 10 - Quyền làm việc của người lao động
+        [70] KHOAN 1 - Khoản 1
+            Preview: Được tự do lựa chọn việc làm, làm việc cho bất kỳ người sử dụng lao động nào và 
+        [71] KHOAN 2 - Khoản 2
+            Preview: Trực tiếp liên hệ với người sử dụng lao động hoặc thông qua tổ chức dịch vụ việc
+    [72] DIEU 11 - Tuyển dụng lao động
+        [73] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động có quyền trực tiếp hoặc thông qua tổ chức dịch vụ việc là
+        [74] KHOAN 2 - Khoản 2
+            Preview: Người lao động không phải trả chi phí cho việc tuyển dụng lao động.
+    [75] DIEU 12 - Trách nhiệm quản lý lao động của người sử dụng lao động
+        [76] KHOAN 1 - Khoản 1
+            Preview: Lập, cập nhật, quản lý, sử dụng sổ quản lý lao động bằng bản giấy hoặc bản điện 
+        [77] KHOAN 2 - Khoản 2
+            Preview: Khai trình việc sử dụng lao động trong thời hạn 30 ngày kể từ ngày bắt đầu hoạt 
+        [78] KHOAN 3 - Khoản 3
+            Preview: Chính phủ quy định chi tiết Điều này.
+[79] CHUONG III - HỢP ĐỒNG LAO ĐỘNG
+    Preview: HỢP ĐỒNG LAO ĐỘNG
+    [80] DIEU 13 - Hợp đồng lao động
+        [81] KHOAN 1 - Khoản 1
+            Preview: Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động
+        [82] KHOAN 2 - Khoản 2
+            Preview: Trước khi nhận người lao động vào làm việc thì người sử dụng lao động phải giao 
+    [83] DIEU 14 - Hình thức hợp đồng lao động
+        [84] KHOAN 1 - Khoản 1
+            Preview: Hợp đồng lao động phải được giao kết bằng văn bản và được làm thành 02 bản, ngườ
+        [85] KHOAN 2 - Khoản 2
+            Preview: Hai bên có thể giao kết hợp đồng lao động bằng lời nói đối với hợp đồng có thời 
+    [86] DIEU 15 - Nguyên tắc giao kết hợp đồng lao động
+        [87] KHOAN 1 - Khoản 1
+            Preview: Tự nguyện, bình đẳng, thiện chí, hợp tác và trung thực.
+        [88] KHOAN 2 - Khoản 2
+            Preview: Tự do giao kết hợp đồng lao động nhưng không được trái pháp luật, thỏa ước lao đ
+    [89] DIEU 16 - Nghĩa vụ cung cấp thông tin khi giao kết hợp đồng lao động
+        [90] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động phải cung cấp thông tin trung thực cho người lao động về 
+        [91] KHOAN 2 - Khoản 2
+            Preview: Người lao động phải cung cấp thông tin trung thực cho người sử dụng lao động về 
+    [92] DIEU 17 - Hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao động
+        [93] KHOAN 1 - Khoản 1
+            Preview: Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động.
+        [94] KHOAN 2 - Khoản 2
+            Preview: Yêu cầu người lao động phải thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản k
+        [95] KHOAN 3 - Khoản 3
+            Preview: Buộc người lao động thực hiện hợp đồng lao động để trả nợ cho người sử dụng lao 
+    [96] DIEU 18 - Thẩm quyền giao kết hợp đồng lao động
+        [97] KHOAN 1 - Khoản 1
+            Preview: Người lao động trực tiếp giao kết hợp đồng lao động, trừ trường hợp quy định tại
+        [98] KHOAN 2 - Khoản 2
+            Preview: Đối với công việc theo mùa vụ, công việc nhất định có thời hạn dưới 12 tháng thì
+        [99] KHOAN 3 - Khoản 3
+            Preview: Người giao kết hợp đồng lao động bên phía người sử dụng lao động là người thuộc 
+            [100] DIEM a - Điểm a
+                Preview: Người đại diện theo pháp luật của doanh nghiệp hoặc người được ủy quyền theo quy
+            [101] DIEM b - Điểm b
+                Preview: Người đứng đầu cơ quan, tổ chức có tư cách pháp nhân theo quy định của pháp luật
+            [102] DIEM c - Điểm c
+                Preview: Người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp n
+            [103] DIEM d - Điểm d
+                Preview: Cá nhân trực tiếp sử dụng lao động.
+        [104] KHOAN 4 - Khoản 4
+            Preview: Người giao kết hợp đồng lao động bên phía người lao động là người thuộc một tron
+            [105] DIEM a - Điểm a
+                Preview: Người lao động từ đủ 18 tuổi trở lên;
+            [106] DIEM b - Điểm b
+                Preview: Người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi khi có sự đồng ý bằng văn bản c
+            [107] DIEM c - Điểm c
+                Preview: Người chưa đủ 15 tuổi và người đại diện theo pháp luật của người đó;
+            [108] DIEM d - Điểm d
+                Preview: Người lao động được những người lao động trong nhóm ủy quyền hợp pháp giao kết h
+        [109] KHOAN 5 - Khoản 5
+            Preview: Người được ủy quyền giao kết hợp đồng lao động không được ủy quyền lại cho người
+    [110] DIEU 19 - Giao kết nhiều hợp đồng lao động
+        [111] KHOAN 1 - Khoản 1
+            Preview: Người lao động có thể giao kết nhiều hợp đồng lao động với nhiều người sử dụng l
+        [112] KHOAN 2 - Khoản 2
+            Preview: Người lao động đồng thời giao kết nhiều hợp đồng lao động với nhiều người sử dụn
+    [113] DIEU 20 - Loại hợp đồng lao động
+        [114] KHOAN 1 - Khoản 1
+            Preview: Hợp đồng lao động phải được giao kết theo một trong các loại sau đây:
+            [115] DIEM a - Điểm a
+                Preview: Hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai bên không 
+            [116] DIEM b - Điểm b
+                Preview: Hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác định thờ
+        [117] KHOAN 2 - Khoản 2
+            Preview: Khi hợp đồng lao động quy định tại điểm b khoản 1 Điều này hết hạn mà người lao 
+            [118] DIEM a - Điểm a
+                Preview: Trong thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết
+            [119] DIEM b - Điểm b
+                Preview: Nếu hết thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn mà hai bên không k
+            [120] DIEM c - Điểm c
+                Preview: Trường hợp hai bên ký kết hợp đồng lao động mới là hợp đồng lao động xác định th
+    [121] DIEU 21 - Nội dung hợp đồng lao động
+        [122] KHOAN 1 - Khoản 1
+            Preview: Hợp đồng lao động phải có những nội dung chủ yếu sau đây:
+            [123] DIEM a - Điểm a
+                Preview: Tên, địa chỉ của người sử dụng lao động và họ tên, chức danh của người giao kết 
+            [124] DIEM b - Điểm b
+                Preview: Họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, số thẻ Căn cước công dân, Ch
+            [125] DIEM c - Điểm c
+                Preview: Công việc và địa điểm làm việc;
+            [126] DIEM d - Điểm d
+                Preview: Thời hạn của hợp đồng lao động;
+            [127] DIEM đ - Điểm đ
+                Preview: Mức lương theo công việc hoặc chức danh, hình thức trả lương, thời hạn trả lương
+            [128] DIEM e - Điểm e
+                Preview: Chế độ nâng bậc, nâng lương;
+            [129] DIEM g - Điểm g
+                Preview: Thời giờ làm việc, thời giờ nghỉ ngơi;
+            [130] DIEM h - Điểm h
+                Preview: Trang bị bảo hộ lao động cho người lao động;
+            [131] DIEM i - Điểm i
+                Preview: Bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp;
+            [132] DIEM k - Điểm k
+                Preview: Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề.
+        [133] KHOAN 2 - Khoản 2
+            Preview: Khi người lao động làm việc có liên quan trực tiếp đến bí mật kinh doanh, bí mật
+        [134] KHOAN 3 - Khoản 3
+            Preview: Đối với người lao động làm việc trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghi
+        [135] KHOAN 4 - Khoản 4
+            Preview: Chính phủ quy định nội dung của hợp đồng lao động đối với người lao động được th
+        [136] KHOAN 5 - Khoản 5
+            Preview: Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết các khoản 1, 2 v
+    [137] DIEU 22 - Phụ lục hợp đồng lao động
+        [138] KHOAN 1 - Khoản 1
+            Preview: Phụ lục hợp đồng lao động là bộ phận của hợp đồng lao động và có hiệu lực như hợ
+        [139] KHOAN 2 - Khoản 2
+            Preview: Phụ lục hợp đồng lao động quy định chi tiết, sửa đổi, bổ sung một số điều, khoản
+    [140] DIEU 23 - Hiệu lực của hợp đồng lao động
+        Preview: Hợp đồng lao động có hiệu lực kể từ ngày hai bên giao kết, trừ trường hợp hai bê
+    [141] DIEU 24 - Thử việc
+        [142] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động và người lao động có thể thỏa thuận nội dung thử việc ghi
+        [143] KHOAN 2 - Khoản 2
+            Preview: Nội dung chủ yếu của hợp đồng thử việc gồm thời gian thử việc và nội dung quy đị
+        [144] KHOAN 3 - Khoản 3
+            Preview: Không áp dụng thử việc đối với người lao động giao kết hợp đồng lao động có thời
+    [145] DIEU 25 - Thời gian thử việc
+        Preview: Thời gian thử việc do hai bên thỏa thuận căn cứ vào tính chất và mức độ phức tạp
+        [146] KHOAN 1 - Khoản 1
+            Preview: Không quá 180 ngày đối với công việc của người quản lý doanh nghiệp theo quy địn
+        [147] KHOAN 2 - Khoản 2
+            Preview: Không quá 60 ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên
+        [148] KHOAN 3 - Khoản 3
+            Preview: Không quá 30 ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên
+        [149] KHOAN 4 - Khoản 4
+            Preview: Không quá 06 ngày làm việc đối với công việc khác.
+    [150] DIEU 26 - Tiền lương thử việc
+        Preview: Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận như
+    [151] DIEU 27 - Kết thúc thời gian thử việc
+        [152] KHOAN 1 - Khoản 1
+            Preview: Khi kết thúc thời gian thử việc, người sử dụng lao động phải thông báo kết quả t
+        [153] KHOAN 2 - Khoản 2
+            Preview: Trong thời gian thử việc, mỗi bên có quyền hủy bỏ hợp đồng thử việc hoặc hợp đồn
+    [154] DIEU 28 - Thực hiện công việc theo hợp đồng lao động
+        Preview: Công việc theo hợp đồng lao động phải do người lao động đã giao kết hợp đồng thự
+    [155] DIEU 29 - Chuyển người lao động làm công việc khác so với hợp đồng lao động
+        [156] KHOAN 1 - Khoản 1
+            Preview: Khi gặp khó khăn đột xuất do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, áp dụng b
+        [157] KHOAN 2 - Khoản 2
+            Preview: Khi tạm thời chuyển người lao động làm công việc khác so với hợp đồng lao động q
+        [158] KHOAN 3 - Khoản 3
+            Preview: Người lao động chuyển sang làm công việc khác so với hợp đồng lao động được trả 
+        [159] KHOAN 4 - Khoản 4
+            Preview: Người lao động không đồng ý tạm thời làm công việc khác so với hợp đồng lao động
+    [160] DIEU 30 - Tạm hoãn thực hiện hợp đồng lao động
+        [161] KHOAN 1 - Khoản 1
+            Preview: Các trường hợp tạm hoãn thực hiện hợp đồng lao động bao gồm:
+            [162] DIEM a - Điểm a
+                Preview: Người lao động thực hiện nghĩa vụ quân sự, nghĩa vụ tham gia Dân quân tự vệ;
+            [163] DIEM b - Điểm b
+                Preview: Người lao động bị tạm giữ, tạm giam theo quy định của pháp luật về tố tụng hình 
+            [164] DIEM c - Điểm c
+                Preview: Người lao động phải chấp hành quyết định áp dụng biện pháp đưa vào trường giáo d
+            [165] DIEM d - Điểm d
+                Preview: Lao động nữ mang thai theo quy định tại Điều 138 của Bộ luật này;
+            [166] DIEM đ - Điểm đ
+                Preview: Người lao động được bổ nhiệm làm người quản lý doanh nghiệp của công ty trách nh
+            [167] DIEM e - Điểm e
+                Preview: Người lao động được ủy quyền để thực hiện quyền, trách nhiệm của đại diện chủ sở
+            [168] DIEM g - Điểm g
+                Preview: Người lao động được ủy quyền để thực hiện quyền, trách nhiệm của doanh nghiệp đố
+            [169] DIEM h - Điểm h
+                Preview: Trường hợp khác do hai bên thỏa thuận.
+        [170] KHOAN 2 - Khoản 2
+            Preview: Trong thời gian tạm hoãn thực hiện hợp đồng lao động, người lao động không được 
+    [171] DIEU 31 - Nhận lại người lao động hết thời hạn tạm hoãn thực hiện hợp đồng lao động
+        Preview: Trong thời hạn 15 ngày kể từ ngày hết thời hạn tạm hoãn thực hiện hợp đồng lao đ
+    [172] DIEU 32 - Làm việc không trọn thời gian
+        [173] KHOAN 1 - Khoản 1
+            Preview: Người lao động làm việc không trọn thời gian là người lao động có thời gian làm 
+        [174] KHOAN 2 - Khoản 2
+            Preview: Người lao động thỏa thuận với người sử dụng lao động làm việc không trọn thời gi
+        [175] KHOAN 3 - Khoản 3
+            Preview: Người lao động làm việc không trọn thời gian được hưởng lương; bình đẳng trong t
+    [176] DIEU 33 - Sửa đổi, bổ sung hợp đồng lao động
+        [177] KHOAN 1 - Khoản 1
+            Preview: Trong quá trình thực hiện hợp đồng lao động, nếu bên nào có yêu cầu sửa đổi, bổ 
+        [178] KHOAN 2 - Khoản 2
+            Preview: Trường hợp hai bên thỏa thuận được thì việc sửa đổi, bổ sung nội dung hợp đồng l
+        [179] KHOAN 3 - Khoản 3
+            Preview: Trường hợp hai bên không thỏa thuận được việc sửa đổi, bổ sung nội dung hợp đồng
+    [180] DIEU 34 - Các trường hợp chấm dứt hợp đồng lao động
+        [181] KHOAN 1 - Khoản 1
+            Preview: Hết hạn hợp đồng lao động, trừ trường hợp quy định tại khoản 4 Điều 177 của Bộ l
+        [182] KHOAN 2 - Khoản 2
+            Preview: Đã hoàn thành công việc theo hợp đồng lao động.
+        [183] KHOAN 3 - Khoản 3
+            Preview: Hai bên thỏa thuận chấm dứt hợp đồng lao động.
+        [184] KHOAN 4 - Khoản 4
+            Preview: Người lao động bị kết án phạt tù nhưng không được hưởng án treo hoặc không thuộc
+        [185] KHOAN 5 - Khoản 5
+            Preview: Người lao động là người nước ngoài làm việc tại Việt Nam bị trục xuất theo bản á
+        [186] KHOAN 6 - Khoản 6
+            Preview: Người lao động chết; bị Tòa án tuyên bố mất năng lực hành vi dân sự, mất tích ho
+        [187] KHOAN 7 - Khoản 7
+            Preview: Người sử dụng lao động là cá nhân chết; bị Tòa án tuyên bố mất năng lực hành vi 
+        [188] KHOAN 8 - Khoản 8
+            Preview: Người lao động bị xử lý kỷ luật sa thải.
+        [189] KHOAN 9 - Khoản 9
+            Preview: Người lao động đơn phương chấm dứt hợp đồng lao động theo quy định tại Điều 35 c
+        [190] KHOAN 10 - Khoản 10
+            Preview: Người sử dụng lao động đơn phương chấm dứt hợp đồng lao động theo quy định tại Đ
+        [191] KHOAN 11 - Khoản 11
+            Preview: Người sử dụng lao động cho người lao động thôi việc theo quy định tại Điều 42 và
+        [192] KHOAN 12 - Khoản 12
+            Preview: Giấy phép lao động hết hiệu lực đối với người lao động là người nước ngoài làm v
+        [193] KHOAN 13 - Khoản 13
+            Preview: Trường hợp thỏa thuận nội dung thử việc ghi trong hợp đồng lao động mà thử việc 
+    [194] DIEU 35 - Quyền đơn phương chấm dứt hợp đồng lao động của người lao động
+        [195] KHOAN 1 - Khoản 1
+            Preview: Người lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trư
+            [196] DIEM a - Điểm a
+                Preview: Ít nhất 45 ngày nếu làm việc theo hợp đồng lao động không xác định thời hạn;
+            [197] DIEM b - Điểm b
+                Preview: Ít nhất 30 ngày nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạ
+            [198] DIEM c - Điểm c
+                Preview: Ít nhất 03 ngày làm việc nếu làm việc theo hợp đồng lao động xác định thời hạn c
+            [199] DIEM d - Điểm d
+                Preview: Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực h
+        [200] KHOAN 2 - Khoản 2
+            Preview: Người lao động có quyền đơn phương chấm dứt hợp đồng lao động không cần báo trướ
+            [201] DIEM a - Điểm a
+                Preview: Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm
+            [202] DIEM b - Điểm b
+                Preview: Không được trả đủ lương hoặc trả lương không đúng thời hạn, trừ trường hợp quy đ
+            [203] DIEM c - Điểm c
+                Preview: Bị người sử dụng lao động ngược đãi, đánh đập hoặc có lời nói, hành vi nhục mạ, 
+            [204] DIEM d - Điểm d
+                Preview: Bị quấy rối tình dục tại nơi làm việc;
+            [205] DIEM đ - Điểm đ
+                Preview: Lao động nữ mang thai phải nghỉ việc theo quy định tại khoản 1 Điều 138 của Bộ l
+            [206] DIEM e - Điểm e
+                Preview: Đủ tuổi nghỉ hưu theo quy định tại Điều 169 của Bộ luật này, trừ trường hợp các 
+            [207] DIEM g - Điểm g
+                Preview: Người sử dụng lao động cung cấp thông tin không trung thực theo quy định tại kho
+    [208] DIEU 36 - Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động
+        [209] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động trong trườ
+            [210] DIEM a - Điểm a
+                Preview: Người lao động thường xuyên không hoàn thành công việc theo hợp đồng lao động đư
+            [211] DIEM b - Điểm b
+                Preview: Người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người là
+            [212] DIEM c - Điểm c
+                Preview: Do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa hoặc di dời, thu hẹp sản x
+            [213] DIEM d - Điểm d
+                Preview: Người lao động không có mặt tại nơi làm việc sau thời hạn quy định tại Điều 31 c
+            [214] DIEM đ - Điểm đ
+                Preview: Người lao động đủ tuổi nghỉ hưu theo quy định tại Điều 169 của Bộ luật này, trừ 
+            [215] DIEM e - Điểm e
+                Preview: Người lao động tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liê
+            [216] DIEM g - Điểm g
+                Preview: Người lao động cung cấp không trung thực thông tin theo quy định tại khoản 2 Điề
+        [217] KHOAN 2 - Khoản 2
+            Preview: Khi đơn phương chấm dứt hợp đồng lao động trong trường hợp quy định tại các điểm
+            [218] DIEM a - Điểm a
+                Preview: Ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn;
+            [219] DIEM b - Điểm b
+                Preview: Ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn có thời hạn từ 12 th
+            [220] DIEM c - Điểm c
+                Preview: Ít nhất 03 ngày làm việc đối với hợp đồng lao động xác định thời hạn có thời hạn
+            [221] DIEM d - Điểm d
+                Preview: Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực h
+        [222] KHOAN 3 - Khoản 3
+            Preview: Khi đơn phương chấm dứt hợp đồng lao động quy định tại điểm d và điểm e khoản 1 
+    [223] DIEU 37 - Trường hợp người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động
+        [224] KHOAN 1 - Khoản 1
+            Preview: Người lao động ốm đau hoặc bị tai nạn, bệnh nghề nghiệp đang điều trị, điều dưỡn
+        [225] KHOAN 2 - Khoản 2
+            Preview: Người lao động đang nghỉ hằng năm, nghỉ việc riêng và trường hợp nghỉ khác được 
+        [226] KHOAN 3 - Khoản 3
+            Preview: Người lao động nữ mang thai; người lao động đang nghỉ thai sản hoặc nuôi con dướ
+    [227] DIEU 38 - Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động
+        Preview: Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi
+    [228] DIEU 39 - Đơn phương chấm dứt hợp đồng lao động trái pháp luật
+        Preview: Đơn phương chấm dứt hợp đồng lao động trái pháp luật là trường hợp chấm dứt hợp 
+    [229] DIEU 40 - Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật
+        [230] KHOAN 1 - Khoản 1
+            Preview: Không được trợ cấp thôi việc.
+        [231] KHOAN 2 - Khoản 2
+            Preview: Phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp đồng la
+        [232] KHOAN 3 - Khoản 3
+            Preview: Phải hoàn trả cho người sử dụng lao động chi phí đào tạo quy định tại Điều 62 củ
+    [233] DIEU 41 - Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật
+        [234] KHOAN 1 - Khoản 1
+            Preview: Phải nhận người lao động trở lại làm việc theo hợp đồng lao động đã giao kết; ph
+        [235] KHOAN 2 - Khoản 2
+            Preview: Trường hợp người lao động không muốn tiếp tục làm việc thì ngoài khoản tiền phải
+        [236] KHOAN 3 - Khoản 3
+            Preview: Trường hợp người sử dụng lao động không muốn nhận lại người lao động và người la
+    [237] DIEU 42 - Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế
+        [238] KHOAN 1 - Khoản 1
+            Preview: Những trường hợp sau đây được coi là thay đổi cơ cấu, công nghệ:
+            [239] DIEM a - Điểm a
+                Preview: Thay đổi cơ cấu tổ chức, tổ chức lại lao động;
+            [240] DIEM b - Điểm b
+                Preview: Thay đổi quy trình, công nghệ, máy móc, thiết bị sản xuất, kinh doanh gắn với ng
+            [241] DIEM c - Điểm c
+                Preview: Thay đổi sản phẩm hoặc cơ cấu sản phẩm.
+        [242] KHOAN 2 - Khoản 2
+            Preview: Những trường hợp sau đây được coi là vì lý do kinh tế:
+            [243] DIEM a - Điểm a
+                Preview: Khủng hoảng hoặc suy thoái kinh tế;
+            [244] DIEM b - Điểm b
+                Preview: Thực hiện chính sách, pháp luật của Nhà nước khi cơ cấu lại nền kinh tế hoặc thự
+        [245] KHOAN 3 - Khoản 3
+            Preview: Trường hợp thay đổi cơ cấu, công nghệ mà ảnh hưởng đến việc làm của nhiều người 
+        [246] KHOAN 4 - Khoản 4
+            Preview: Trong trường hợp vì lý do kinh tế mà nhiều người lao động có nguy cơ mất việc là
+        [247] KHOAN 5 - Khoản 5
+            Preview: Trong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà ph
+        [248] KHOAN 6 - Khoản 6
+            Preview: Việc cho thôi việc đối với người lao động theo quy định tại Điều này chỉ được ti
+    [249] DIEU 43 - Nghĩa vụ của người sử dụng lao động khi chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp; chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp, hợp tác xã
+        [250] KHOAN 1 - Khoản 1
+            Preview: Trong trường hợp chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại 
+        [251] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động hiện tại và người sử dụng lao động kế tiếp có trách nhiệm
+        [252] KHOAN 3 - Khoản 3
+            Preview: Người lao động bị thôi việc thì được nhận trợ cấp mất việc làm theo quy định tại
+    [253] DIEU 44 - Phương án sử dụng lao động
+        [254] KHOAN 1 - Khoản 1
+            Preview: Phương án sử dụng lao động phải có những nội dung chủ yếu sau đây:
+            [255] DIEM a - Điểm a
+                Preview: Số lượng và danh sách người lao động tiếp tục được sử dụng, người lao động được 
+            [256] DIEM b - Điểm b
+                Preview: Số lượng và danh sách người lao động nghỉ hưu;
+            [257] DIEM c - Điểm c
+                Preview: Số lượng và danh sách người lao động phải chấm dứt hợp đồng lao động;
+            [258] DIEM d - Điểm d
+                Preview: Quyền và nghĩa vụ của người sử dụng lao động, người lao động và các bên liên qua
+            [259] DIEM đ - Điểm đ
+                Preview: Biện pháp và nguồn tài chính bảo đảm thực hiện phương án.
+        [260] KHOAN 2 - Khoản 2
+            Preview: Khi xây dựng phương án sử dụng lao động, người sử dụng lao động phải trao đổi ý 
+    [261] DIEU 45 - Thông báo chấm dứt hợp đồng lao động
+        [262] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động phải thông báo bằng văn bản cho người lao động về việc ch
+        [263] KHOAN 2 - Khoản 2
+            Preview: Trường hợp người sử dụng lao động không phải là cá nhân chấm dứt hoạt động thì t
+    [264] DIEU 46 - Trợ cấp thôi việc
+        [265] KHOAN 1 - Khoản 1
+            Preview: Khi hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 v
+        [266] KHOAN 2 - Khoản 2
+            Preview: Thời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã
+        [267] KHOAN 3 - Khoản 3
+            Preview: Tiền lương để tính trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền k
+        [268] KHOAN 4 - Khoản 4
+            Preview: Chính phủ quy định chi tiết Điều này.
+    [269] DIEU 47 - Trợ cấp mất việc làm
+        [270] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc t
+        [271] KHOAN 2 - Khoản 2
+            Preview: Thời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động
+        [272] KHOAN 3 - Khoản 3
+            Preview: Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liề
+        [273] KHOAN 4 - Khoản 4
+            Preview: Chính phủ quy định chi tiết Điều này.
+    [274] DIEU 48 - Trách nhiệm khi chấm dứt hợp đồng lao động
+        [275] KHOAN 1 - Khoản 1
+            Preview: Trong thời hạn 14 ngày làm việc kể từ ngày chấm dứt hợp đồng lao động, hai bên c
+            [276] DIEM a - Điểm a
+                Preview: Người sử dụng lao động không phải là cá nhân chấm dứt hoạt động;
+            [277] DIEM b - Điểm b
+                Preview: Người sử dụng lao động thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế;
+            [278] DIEM c - Điểm c
+                Preview: Chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp
+            [279] DIEM d - Điểm d
+                Preview: Do thiên tai, hỏa hoạn, địch họa hoặc dịch bệnh nguy hiểm.
+        [280] KHOAN 2 - Khoản 2
+            Preview: Tiền lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, trợ cấp thôi v
+        [281] KHOAN 3 - Khoản 3
+            Preview: Người sử dụng lao động có trách nhiệm sau đây:
+            [282] DIEM a - Điểm a
+                Preview: Hoàn thành thủ tục xác nhận thời gian đóng bảo hiểm xã hội, bảo hiểm thất nghiệp
+            [283] DIEM b - Điểm b
+                Preview: Cung cấp bản sao các tài liệu liên quan đến quá trình làm việc của người lao độn
+    [284] DIEU 49 - Hợp đồng lao động vô hiệu
+        [285] KHOAN 1 - Khoản 1
+            Preview: Hợp đồng lao động vô hiệu toàn bộ trong trường hợp sau đây:
+            [286] DIEM a - Điểm a
+                Preview: Toàn bộ nội dung của hợp đồng lao động vi phạm pháp luật;
+            [287] DIEM b - Điểm b
+                Preview: Người giao kết hợp đồng lao động không đúng thẩm quyền hoặc vi phạm nguyên tắc g
+            [288] DIEM c - Điểm c
+                Preview: Công việc đã giao kết trong hợp đồng lao động là công việc mà pháp luật cấm.
+        [289] KHOAN 2 - Khoản 2
+            Preview: Hợp đồng lao động vô hiệu từng phần khi nội dung của phần đó vi phạm pháp luật n
+    [290] DIEU 50 - Thẩm quyền tuyên bố hợp đồng lao động vô hiệu
+        Preview: Tòa án nhân dân có quyền tuyên bố hợp đồng lao động vô hiệu.
+    [291] DIEU 51 - Xử lý hợp đồng lao động vô hiệu
+        [292] KHOAN 1 - Khoản 1
+            Preview: Khi hợp đồng lao động bị tuyên bố vô hiệu từng phần thì xử lý như sau:
+            [293] DIEM a - Điểm a
+                Preview: Quyền, nghĩa vụ và lợi ích của hai bên được giải quyết theo thỏa ước lao động tậ
+            [294] DIEM b - Điểm b
+                Preview: Hai bên tiến hành sửa đổi, bổ sung phần của hợp đồng lao động bị tuyên bố vô hiệ
+        [295] KHOAN 2 - Khoản 2
+            Preview: Khi hợp đồng lao động bị tuyên bố vô hiệu toàn bộ thì quyền, nghĩa vụ và lợi ích
+        [296] KHOAN 3 - Khoản 3
+            Preview: Chính phủ quy định chi tiết Điều này. Mục 5. CHO THUÊ LẠI LAO ĐỘNG
+    [297] DIEU 52 - Cho thuê lại lao động
+        [298] KHOAN 1 - Khoản 1
+            Preview: Cho thuê lại lao động là việc người lao động giao kết hợp đồng lao động với một 
+        [299] KHOAN 2 - Khoản 2
+            Preview: Hoạt động cho thuê lại lao động là ngành, nghề kinh doanh có điều kiện, chỉ được
+    [300] DIEU 53 - Nguyên tắc hoạt động cho thuê lại lao động
+        [301] KHOAN 1 - Khoản 1
+            Preview: Thời hạn cho thuê lại lao động đối với người lao động tối đa là 12 tháng.
+        [302] KHOAN 2 - Khoản 2
+            Preview: Bên thuê lại lao động được sử dụng lao động thuê lại trong trường hợp sau đây:
+            [303] DIEM a - Điểm a
+                Preview: Đáp ứng tạm thời sự gia tăng đột ngột về nhu cầu sử dụng lao động trong khoảng t
+            [304] DIEM b - Điểm b
+                Preview: Thay thế người lao động trong thời gian nghỉ thai sản, bị tai nạn lao động, bệnh
+            [305] DIEM c - Điểm c
+                Preview: Có nhu cầu sử dụng lao động trình độ chuyên môn, kỹ thuật cao.
+        [306] KHOAN 3 - Khoản 3
+            Preview: Bên thuê lại lao động không được sử dụng lao động thuê lại trong trường hợp sau 
+            [307] DIEM a - Điểm a
+                Preview: Để thay thế người lao động đang trong thời gian thực hiện quyền đình công, giải 
+            [308] DIEM b - Điểm b
+                Preview: Không có thỏa thuận cụ thể về trách nhiệm bồi thường tai nạn lao động, bệnh nghề
+            [309] DIEM c - Điểm c
+                Preview: Thay thế người lao động bị cho thôi việc do thay đổi cơ cấu, công nghệ, vì lý do
+        [310] KHOAN 4 - Khoản 4
+            Preview: Bên thuê lại lao động không được chuyển người lao động thuê lại cho người sử dụn
+    [311] DIEU 54 - Doanh nghiệp cho thuê lại lao động
+        [312] KHOAN 1 - Khoản 1
+            Preview: Doanh nghiệp cho thuê lại lao động phải ký quỹ và được cấp Giấy phép hoạt động c
+        [313] KHOAN 2 - Khoản 2
+            Preview: Chính phủ quy định việc ký quỹ, điều kiện, trình tự, thủ tục cấp, cấp lại, gia h
+    [314] DIEU 55 - Hợp đồng cho thuê lại lao động
+        [315] KHOAN 1 - Khoản 1
+            Preview: Doanh nghiệp cho thuê lại lao động và bên thuê lại lao động phải ký kết hợp đồng
+        [316] KHOAN 2 - Khoản 2
+            Preview: Hợp đồng cho thuê lại lao động gồm các nội dung chủ yếu sau đây:
+            [317] DIEM a - Điểm a
+                Preview: Địa điểm làm việc, vị trí việc làm cần sử dụng lao động thuê lại, nội dung cụ th
+            [318] DIEM b - Điểm b
+                Preview: Thời hạn thuê lại lao động; thời gian bắt đầu làm việc của người lao động thuê l
+            [319] DIEM c - Điểm c
+                Preview: Thời giờ làm việc, thời giờ nghỉ ngơi, điều kiện an toàn, vệ sinh lao động tại n
+            [320] DIEM d - Điểm d
+                Preview: Trách nhiệm bồi thường tai nạn lao động, bệnh nghề nghiệp;
+            [321] DIEM đ - Điểm đ
+                Preview: Nghĩa vụ của mỗi bên đối với người lao động.
+        [322] KHOAN 3 - Khoản 3
+            Preview: Hợp đồng cho thuê lại lao động không được có những thỏa thuận về quyền, lợi ích 
+    [323] DIEU 56 - Quyền và nghĩa vụ của doanh nghiệp cho thuê lại lao động
+        Preview: Ngoài các quyền và nghĩa vụ quy định tại Điều 6 của Bộ luật này, doanh nghiệp ch
+        [324] KHOAN 1 - Khoản 1
+            Preview: Bảo đảm đưa người lao động có trình độ phù hợp với những yêu cầu của bên thuê lạ
+        [325] KHOAN 2 - Khoản 2
+            Preview: Thông báo cho người lao động biết nội dung của hợp đồng cho thuê lại lao động;
+        [326] KHOAN 3 - Khoản 3
+            Preview: Thông báo cho bên thuê lại lao động biết sơ yếu lý lịch của người lao động, yêu 
+        [327] KHOAN 4 - Khoản 4
+            Preview: Bảo đảm trả lương cho người lao động thuê lại không thấp hơn tiền lương của ngườ
+        [328] KHOAN 5 - Khoản 5
+            Preview: Lập hồ sơ ghi rõ số lao động đã cho thuê lại, bên thuê lại lao động và định kỳ b
+        [329] KHOAN 6 - Khoản 6
+            Preview: Xử lý kỷ luật lao động đối với người lao động vi phạm kỷ luật lao động khi bên t
+    [330] DIEU 57 - Quyền và nghĩa vụ của bên thuê lại lao động
+        [331] KHOAN 1 - Khoản 1
+            Preview: Thông báo, hướng dẫn cho người lao động thuê lại biết nội quy lao động và các qu
+        [332] KHOAN 2 - Khoản 2
+            Preview: Không được phân biệt đối xử về điều kiện lao động đối với người lao động thuê lạ
+        [333] KHOAN 3 - Khoản 3
+            Preview: Thỏa thuận với người lao động thuê lại về làm việc vào ban đêm, làm thêm giờ the
+        [334] KHOAN 4 - Khoản 4
+            Preview: Thỏa thuận với người lao động thuê lại và doanh nghiệp cho thuê lại lao động để 
+        [335] KHOAN 5 - Khoản 5
+            Preview: Trả lại người lao động thuê lại không đáp ứng yêu cầu như đã thỏa thuận hoặc vi 
+        [336] KHOAN 6 - Khoản 6
+            Preview: Cung cấp cho doanh nghiệp cho thuê lại lao động chứng cứ về hành vi vi phạm kỷ l
+    [337] DIEU 58 - Quyền và nghĩa vụ của người lao động thuê lại
+        Preview: Ngoài các quyền và nghĩa vụ theo quy định tại Điều 5 của Bộ luật này, người lao 
+        [338] KHOAN 1 - Khoản 1
+            Preview: Thực hiện công việc theo hợp đồng lao động đã ký với doanh nghiệp hoạt động cho 
+        [339] KHOAN 2 - Khoản 2
+            Preview: Chấp hành kỷ luật lao động, nội quy lao động; tuân theo sự quản lý, điều hành, g
+        [340] KHOAN 3 - Khoản 3
+            Preview: Được trả lương không thấp hơn tiền lương của người lao động của bên thuê lại lao
+        [341] KHOAN 4 - Khoản 4
+            Preview: Khiếu nại với doanh nghiệp cho thuê lại lao động trong trường hợp bị bên thuê lạ
+        [342] KHOAN 5 - Khoản 5
+            Preview: Thỏa thuận chấm dứt hợp đồng lao động với doanh nghiệp cho thuê lại lao động để 
+[343] CHUONG IV - GIÁO DỤC NGHỀ NGHIỆP VÀ PHÁT TRIỂN KỸ NĂNG NGHỀ
+    Preview: GIÁO DỤC NGHỀ NGHIỆP VÀ PHÁT TRIỂN KỸ NĂNG NGHỀ
+    [344] DIEU 59 - Đào tạo nghề nghiệp và phát triển kỹ năng nghề
+        [345] KHOAN 1 - Khoản 1
+            Preview: Người lao động được tự do lựa chọn đào tạo nghề nghiệp, tham gia đánh giá, công 
+        [346] KHOAN 2 - Khoản 2
+            Preview: Nhà nước có chính sách khuyến khích người sử dụng lao động có đủ điều kiện đào t
+            [347] DIEM a - Điểm a
+                Preview: Thành lập cơ sở giáo dục nghề nghiệp hoặc mở lớp đào tạo nghề tại nơi làm việc đ
+            [348] DIEM b - Điểm b
+                Preview: Tổ chức thi kỹ năng nghề cho người lao động; tham gia hội đồng kỹ năng nghề; dự 
+    [349] DIEU 60 - Trách nhiệm của người sử dụng lao động về đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề
+        [350] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động xây dựng kế hoạch hằng năm và dành kinh phí cho việc đào 
+        [351] KHOAN 2 - Khoản 2
+            Preview: Hằng năm, người sử dụng lao động thông báo kết quả đào tạo, bồi dưỡng, nâng cao 
+    [352] DIEU 61 - Học nghề, tập nghề để làm việc cho người sử dụng lao động
+        [353] KHOAN 1 - Khoản 1
+            Preview: Học nghề để làm việc cho người sử dụng lao động là việc người sử dụng lao động t
+        [354] KHOAN 2 - Khoản 2
+            Preview: Tập nghề để làm việc cho người sử dụng lao động là việc người sử dụng lao động t
+        [355] KHOAN 3 - Khoản 3
+            Preview: Người sử dụng lao động tuyển người vào học nghề, tập nghề để làm việc cho mình t
+        [356] KHOAN 4 - Khoản 4
+            Preview: Người học nghề, người tập nghề phải đủ 14 tuổi trở lên và phải có đủ sức khỏe ph
+        [357] KHOAN 5 - Khoản 5
+            Preview: Trong thời gian học nghề, tập nghề, nếu người học nghề, người tập nghề trực tiếp
+        [358] KHOAN 6 - Khoản 6
+            Preview: Hết thời hạn học nghề, tập nghề, hai bên phải ký kết hợp đồng lao động khi đủ cá
+    [359] DIEU 62 - Hợp đồng đào tạo nghề giữa người sử dụng lao động, người lao động và chi phí đào tạo nghề
+        [360] KHOAN 1 - Khoản 1
+            Preview: Hai bên phải ký kết hợp đồng đào tạo nghề trong trường hợp người lao động được đ
+        [361] KHOAN 2 - Khoản 2
+            Preview: Hợp đồng đào tạo nghề phải có các nội dung chủ yếu sau đây:
+            [362] DIEM a - Điểm a
+                Preview: Nghề đào tạo;
+            [363] DIEM b - Điểm b
+                Preview: Địa điểm, thời gian và tiền lương trong thời gian đào tạo;
+            [364] DIEM c - Điểm c
+                Preview: Thời hạn cam kết phải làm việc sau khi được đào tạo;
+            [365] DIEM d - Điểm d
+                Preview: Chi phí đào tạo và trách nhiệm hoàn trả chi phí đào tạo;
+            [366] DIEM đ - Điểm đ
+                Preview: Trách nhiệm của người sử dụng lao động;
+            [367] DIEM e - Điểm e
+                Preview: Trách nhiệm của người lao động.
+        [368] KHOAN 3 - Khoản 3
+            Preview: Chi phí đào tạo bao gồm các khoản chi có chứng từ hợp lệ về chi phí trả cho ngườ
+[369] CHUONG V - ĐỐI THOẠI TẠI NƠI LÀM VIỆC, THƯƠNG LƯỢNG TẬP THỂ, THỎA ƯỚC LAO ĐỘNG TẬP THỂ
+    Preview: ĐỐI THOẠI TẠI NƠI LÀM VIỆC, THƯƠNG LƯỢNG TẬP THỂ, THỎA ƯỚC LAO ĐỘNG TẬP THỂ
+    [370] DIEU 63 - Tổ chức đối thoại tại nơi làm việc
+        [371] KHOAN 1 - Khoản 1
+            Preview: Đối thoại tại nơi làm việc là việc chia sẻ thông tin, tham khảo, thảo luận, trao
+        [372] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động phải tổ chức đối thoại tại nơi làm việc trong trường hợp 
+            [373] DIEM a - Điểm a
+                Preview: Định kỳ ít nhất 01 năm một lần;
+            [374] DIEM b - Điểm b
+                Preview: Khi có yêu cầu của một hoặc các bên;
+            [375] DIEM c - Điểm c
+                Preview: Khi có vụ việc quy định tại điểm a khoản 1 Điều 36, các điều 42, 44, 93, 104, 11
+        [376] KHOAN 3 - Khoản 3
+            Preview: Khuyến khích người sử dụng lao động và người lao động hoặc tổ chức đại diện ngườ
+        [377] KHOAN 4 - Khoản 4
+            Preview: Chính phủ quy định việc tổ chức đối thoại và thực hiện quy chế dân chủ ở cơ sở t
+    [378] DIEU 64 - Nội dung đối thoại tại nơi làm việc
+        [379] KHOAN 1 - Khoản 1
+            Preview: Nội dung đối thoại bắt buộc theo quy định tại điểm c khoản 2 Điều 63 của Bộ luật
+        [380] KHOAN 2 - Khoản 2
+            Preview: Ngoài nội dung quy định tại khoản 1 Điều này, các bên lựa chọn một hoặc một số n
+            [381] DIEM a - Điểm a
+                Preview: Tình hình sản xuất, kinh doanh của người sử dụng lao động;
+            [382] DIEM b - Điểm b
+                Preview: Việc thực hiện hợp đồng lao động, thỏa ước lao động tập thể, nội quy lao động, q
+            [383] DIEM c - Điểm c
+                Preview: Điều kiện làm việc;
+            [384] DIEM d - Điểm d
+                Preview: Yêu cầu của người lao động, tổ chức đại diện người lao động đối với người sử dụn
+            [385] DIEM đ - Điểm đ
+                Preview: Yêu cầu của người sử dụng lao động đối với người lao động, tổ chức đại diện ngườ
+            [386] DIEM e - Điểm e
+                Preview: Nội dung khác mà một hoặc các bên quan tâm. Mục 2. THƯƠNG LƯỢNG TẬP THỂ
+    [387] DIEU 65 - Thương lượng tập thể
+        Preview: Thương lượng tập thể là việc đàm phán, thỏa thuận giữa một bên là một hoặc nhiều
+    [388] DIEU 66 - Nguyên tắc thương lượng tập thể
+        Preview: Thương lượng tập thể được tiến hành theo nguyên tắc tự nguyện, hợp tác, thiện ch
+    [389] DIEU 67 - Nội dung thương lượng tập thể
+        Preview: Các bên thương lượng lựa chọn một hoặc một số nội dung sau để tiến hành thương l
+        [390] KHOAN 1 - Khoản 1
+            Preview: Tiền lương, trợ cấp, nâng lương, thưởng, bữa ăn và các chế độ khác;
+        [391] KHOAN 2 - Khoản 2
+            Preview: Mức lao động và thời giờ làm việc, thời giờ nghỉ ngơi, làm thêm giờ, nghỉ giữa c
+        [392] KHOAN 3 - Khoản 3
+            Preview: Bảo đảm việc làm đối với người lao động;
+        [393] KHOAN 4 - Khoản 4
+            Preview: Bảo đảm an toàn, vệ sinh lao động; thực hiện nội quy lao động;
+        [394] KHOAN 5 - Khoản 5
+            Preview: Điều kiện, phương tiện hoạt động của tổ chức đại diện người lao động; mối quan h
+        [395] KHOAN 6 - Khoản 6
+            Preview: Cơ chế, phương thức phòng ngừa, giải quyết tranh chấp lao động;
+        [396] KHOAN 7 - Khoản 7
+            Preview: Bảo đảm bình đẳng giới, bảo vệ thai sản, nghỉ hằng năm; phòng, chống bạo lực và 
+        [397] KHOAN 8 - Khoản 8
+            Preview: Nội dung khác mà một hoặc các bên quan tâm.
+    [398] DIEU 68 - Quyền thương lượng tập thể của tổ chức đại diện người lao động tại cơ sở trong doanh nghiệp
+        [399] KHOAN 1 - Khoản 1
+            Preview: Tổ chức đại diện người lao động tại cơ sở có quyền yêu cầu thương lượng tập thể 
+        [400] KHOAN 2 - Khoản 2
+            Preview: Trường hợp doanh nghiệp có nhiều tổ chức đại diện người lao động tại cơ sở đáp ứ
+        [401] KHOAN 3 - Khoản 3
+            Preview: Trường hợp doanh nghiệp có nhiều tổ chức đại diện người lao động tại cơ sở mà kh
+        [402] KHOAN 4 - Khoản 4
+            Preview: Chính phủ quy định việc giải quyết tranh chấp giữa các bên liên quan đến quyền t
+    [403] DIEU 69 - Đại diện thương lượng tập thể tại doanh nghiệp
+        [404] KHOAN 1 - Khoản 1
+            Preview: Số lượng người tham gia thương lượng tập thể của mỗi bên do các bên thỏa thuận.
+        [405] KHOAN 2 - Khoản 2
+            Preview: Thành phần tham gia thương lượng tập thể của mỗi bên do bên đó quyết định. Trườn
+        [406] KHOAN 3 - Khoản 3
+            Preview: Mỗi bên thương lượng tập thể có quyền mời tổ chức đại diện cấp trên của mình cử 
+    [407] DIEU 70 - Quy trình thương lượng tập thể tại doanh nghiệp
+        [408] KHOAN 1 - Khoản 1
+            Preview: Khi có yêu cầu thương lượng tập thể của tổ chức đại diện người lao động tại cơ s
+        [409] KHOAN 2 - Khoản 2
+            Preview: Thời gian thương lượng tập thể không được quá 90 ngày kể từ ngày bắt đầu thương 
+        [410] KHOAN 3 - Khoản 3
+            Preview: Trong quá trình thương lượng tập thể, nếu có yêu cầu của bên đại diện người lao 
+        [411] KHOAN 4 - Khoản 4
+            Preview: Tổ chức đại diện người lao động tại cơ sở có quyền tổ chức thảo luận, lấy ý kiến
+        [412] KHOAN 5 - Khoản 5
+            Preview: Việc thương lượng tập thể phải được lập biên bản, trong đó ghi rõ nội dung đã đư
+    [413] DIEU 71 - Thương lượng tập thể không thành
+        [414] KHOAN 1 - Khoản 1
+            Preview: Thương lượng tập thể không thành thuộc một trong các trường hợp sau đây:
+            [415] DIEM a - Điểm a
+                Preview: Một bên từ chối thương lượng hoặc không tiến hành thương lượng trong thời hạn qu
+            [416] DIEM b - Điểm b
+                Preview: Đã hết thời hạn quy định tại khoản 2 Điều 70 của Bộ luật này mà các bên không đạ
+            [417] DIEM c - Điểm c
+                Preview: Chưa hết thời hạn quy định tại khoản 2 Điều 70 của Bộ luật này nhưng các bên cùn
+        [418] KHOAN 2 - Khoản 2
+            Preview: Khi thương lượng không thành, các bên thương lượng tiến hành thủ tục giải quyết 
+    [419] DIEU 72 - Thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia
+        [420] KHOAN 1 - Khoản 1
+            Preview: Nguyên tắc, nội dung thương lượng tập thể ngành, thương lượng tập thể có nhiều d
+        [421] KHOAN 2 - Khoản 2
+            Preview: Quy trình tiến hành thương lượng tập thể ngành, thương lượng tập thể có nhiều do
+        [422] KHOAN 3 - Khoản 3
+            Preview: Trường hợp thương lượng tập thể ngành thì đại diện thương lượng là tổ chức công 
+    [423] DIEU 73 - Thương lượng tập thể có nhiều doanh nghiệp tham gia thông qua Hội đồng thương lượng tập thể
+        [424] KHOAN 1 - Khoản 1
+            Preview: Trên cơ sở đồng thuận, các bên thương lượng tập thể có nhiều doanh nghiệp tham g
+        [425] KHOAN 2 - Khoản 2
+            Preview: Khi nhận được yêu cầu của các bên thương lượng tập thể có nhiều doanh nghiệp tha
+            [426] DIEM a - Điểm a
+                Preview: Chủ tịch Hội đồng do các bên quyết định và có trách nhiệm điều phối hoạt động củ
+            [427] DIEM b - Điểm b
+                Preview: Đại diện các bên thương lượng tập thể do mỗi bên cử. Số lượng đại diện mỗi bên t
+            [428] DIEM c - Điểm c
+                Preview: Đại diện Ủy ban nhân dân cấp tỉnh.
+        [429] KHOAN 3 - Khoản 3
+            Preview: Hội đồng thương lượng tập thể tiến hành thương lượng theo yêu cầu của các bên và
+        [430] KHOAN 4 - Khoản 4
+            Preview: Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chức năng, nhiệm vụ, hoạt
+    [431] DIEU 74 - Trách nhiệm của Ủy ban nhân dân cấp tỉnh trong thương lượng tập thể
+        [432] KHOAN 1 - Khoản 1
+            Preview: Tổ chức đào tạo, bồi dưỡng kỹ năng thương lượng tập thể cho các bên thương lượng
+        [433] KHOAN 2 - Khoản 2
+            Preview: Xây dựng và cung cấp các thông tin, dữ liệu về kinh tế - xã hội, thị trường lao 
+        [434] KHOAN 3 - Khoản 3
+            Preview: Chủ động hoặc khi có yêu cầu của cả hai bên thương lượng tập thể, hỗ trợ các bên
+        [435] KHOAN 4 - Khoản 4
+            Preview: Thành lập Hội đồng thương lượng tập thể khi có yêu cầu của các bên thương lượng 
+    [436] DIEU 75 - Thỏa ước lao động tập thể
+        [437] KHOAN 1 - Khoản 1
+            Preview: Thỏa ước lao động tập thể là thỏa thuận đạt được thông qua thương lượng tập thể 
+        [438] KHOAN 2 - Khoản 2
+            Preview: Nội dung thỏa ước lao động tập thể không được trái với quy định của pháp luật; k
+    [439] DIEU 76 - Lấy ý kiến và ký kết thỏa ước lao động tập thể
+        [440] KHOAN 1 - Khoản 1
+            Preview: Đối với thỏa ước lao động tập thể doanh nghiệp, trước khi ký kết, dự thảo thỏa ư
+        [441] KHOAN 2 - Khoản 2
+            Preview: Đối với thỏa ước lao động tập thể ngành, đối tượng lấy ý kiến bao gồm toàn bộ th
+        [442] KHOAN 3 - Khoản 3
+            Preview: Thời gian, địa điểm và cách thức lấy ý kiến biểu quyết đối với dự thảo thỏa ước 
+        [443] KHOAN 4 - Khoản 4
+            Preview: Thỏa ước lao động tập thể được ký kết bởi đại diện hợp pháp của các bên thương l
+        [444] KHOAN 5 - Khoản 5
+            Preview: Thỏa ước lao động tập thể phải được gửi cho mỗi bên ký kết và cho cơ quan chuyên
+        [445] KHOAN 6 - Khoản 6
+            Preview: Sau khi thỏa ước lao động tập thể được ký kết, người sử dụng lao động phải công 
+        [446] KHOAN 7 - Khoản 7
+            Preview: Chính phủ quy định chi tiết Điều này.
+    [447] DIEU 77 - Gửi thỏa ước lao động tập thể
+        Preview: Trong thời hạn 10 ngày kể từ ngày thỏa ước lao động tập thể được ký kết, người s
+    [448] DIEU 78 - Hiệu lực và thời hạn của thỏa ước lao động tập thể
+        [449] KHOAN 1 - Khoản 1
+            Preview: Ngày có hiệu lực của thỏa ước lao động tập thể do các bên thỏa thuận và được ghi
+        [450] KHOAN 2 - Khoản 2
+            Preview: Thỏa ước lao động tập thể doanh nghiệp có hiệu lực áp dụng đối với người sử dụng
+        [451] KHOAN 3 - Khoản 3
+            Preview: Thỏa ước lao động tập thể có thời hạn từ 01 năm đến 03 năm. Thời hạn cụ thể do c
+    [452] DIEU 79 - Thực hiện thỏa ước lao động tập thể tại doanh nghiệp
+        [453] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động, người lao động, bao gồm cả người lao động vào làm việc s
+        [454] KHOAN 2 - Khoản 2
+            Preview: Trường hợp quyền, nghĩa vụ và lợi ích của các bên trong hợp đồng lao động đã gia
+        [455] KHOAN 3 - Khoản 3
+            Preview: Khi một bên cho rằng bên kia thực hiện không đầy đủ hoặc vi phạm thỏa ước lao độ
+    [456] DIEU 80 - Thực hiện thỏa ước lao động tập thể doanh nghiệp trong trường hợp chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp; chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp
+        [457] KHOAN 1 - Khoản 1
+            Preview: Trường hợp chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình d
+        [458] KHOAN 2 - Khoản 2
+            Preview: Trường hợp thỏa ước lao động tập thể doanh nghiệp hết hiệu lực do người sử dụng 
+    [459] DIEU 81 - Quan hệ giữa thỏa ước lao động tập thể doanh nghiệp, thỏa ước lao động tập thể ngành và thỏa ước lao động tập thể có nhiều doanh nghiệp
+        [460] KHOAN 1 - Khoản 1
+            Preview: Trường hợp thỏa ước lao động tập thể doanh nghiệp, thỏa ước lao động tập thể có 
+        [461] KHOAN 2 - Khoản 2
+            Preview: Doanh nghiệp thuộc đối tượng áp dụng của thỏa ước lao động tập thể ngành hoặc th
+        [462] KHOAN 3 - Khoản 3
+            Preview: Khuyến khích doanh nghiệp chưa tham gia thỏa ước lao động tập thể ngành hoặc thỏ
+    [463] DIEU 82 - Sửa đổi, bổ sung thỏa ước lao động tập thể
+        [464] KHOAN 1 - Khoản 1
+            Preview: Thỏa ước lao động tập thể chỉ được sửa đổi, bổ sung theo thỏa thuận tự nguyện củ
+        [465] KHOAN 2 - Khoản 2
+            Preview: Trường hợp quy định của pháp luật thay đổi dẫn đến thỏa ước lao động tập thể khô
+    [466] DIEU 83 - Thỏa ước lao động tập thể hết hạn
+        Preview: Trong thời hạn 90 ngày trước ngày thỏa ước lao động tập thể hết hạn, các bên có 
+    [467] DIEU 84 - Mở rộng phạm vi áp dụng của thỏa ước lao động tập thể ngành hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp
+        [468] KHOAN 1 - Khoản 1
+            Preview: Khi một thỏa ước lao động tập thể ngành hoặc thỏa ước lao động tập thể có nhiều 
+        [469] KHOAN 2 - Khoản 2
+            Preview: Chính phủ quy định chi tiết khoản 1 Điều này; quy định trình tự, thủ tục và thẩm
+    [470] DIEU 85 - Gia nhập và rút khỏi thỏa ước lao động tập thể ngành hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp
+        [471] KHOAN 1 - Khoản 1
+            Preview: Doanh nghiệp có thể gia nhập thỏa ước lao động tập thể ngành, thỏa ước lao động 
+        [472] KHOAN 2 - Khoản 2
+            Preview: Doanh nghiệp thành viên của thỏa ước lao động tập thể ngành, thỏa ước lao động t
+        [473] KHOAN 3 - Khoản 3
+            Preview: Chính phủ quy định chi tiết Điều này.
+    [474] DIEU 86 - Thỏa ước lao động tập thể vô hiệu
+        [475] KHOAN 1 - Khoản 1
+            Preview: Thỏa ước lao động tập thể vô hiệu từng phần khi một hoặc một số nội dung trong t
+        [476] KHOAN 2 - Khoản 2
+            Preview: Thỏa ước lao động tập thể vô hiệu toàn bộ thuộc một trong các trường hợp sau đây
+            [477] DIEM a - Điểm a
+                Preview: Toàn bộ nội dung thỏa ước lao động tập thể vi phạm pháp luật;
+            [478] DIEM b - Điểm b
+                Preview: Người ký kết không đúng thẩm quyền;
+            [479] DIEM c - Điểm c
+                Preview: Không tuân thủ đúng quy trình thương lượng, ký kết thỏa ước lao động tập thể.
+    [480] DIEU 87 - Thẩm quyền tuyên bố thỏa ước lao động tập thể vô hiệu
+        Preview: Tòa án nhân dân có quyền tuyên bố thỏa ước lao động tập thể vô hiệu.
+    [481] DIEU 88 - Xử lý thỏa ước lao động tập thể vô hiệu
+        Preview: Khi thỏa ước lao động tập thể bị tuyên bố vô hiệu thì quyền, nghĩa vụ và lợi ích
+    [482] DIEU 89 - Chi phí thương lượng, ký kết thỏa ước lao động tập thể
+        Preview: Mọi chi phí cho việc thương lượng, ký kết, sửa đổi, bổ sung, gửi và công bố thỏa
+[483] CHUONG VI - TIỀN LƯƠNG
+    Preview: TIỀN LƯƠNG
+    [484] DIEU 90 - Tiền lương
+        [485] KHOAN 1 - Khoản 1
+            Preview: Tiền lương là số tiền mà người sử dụng lao động trả cho người lao động theo thỏa
+        [486] KHOAN 2 - Khoản 2
+            Preview: Mức lương theo công việc hoặc chức danh không được thấp hơn mức lương tối thiểu.
+        [487] KHOAN 3 - Khoản 3
+            Preview: Người sử dụng lao động phải bảo đảm trả lương bình đẳng, không phân biệt giới tí
+    [488] DIEU 91 - Mức lương tối thiểu
+        [489] KHOAN 1 - Khoản 1
+            Preview: Mức lương tối thiểu là mức lương thấp nhất được trả cho người lao động làm công 
+        [490] KHOAN 2 - Khoản 2
+            Preview: Mức lương tối thiểu được xác lập theo vùng, ấn định theo tháng, giờ.
+        [491] KHOAN 3 - Khoản 3
+            Preview: Mức lương tối thiểu được điều chỉnh dựa trên mức sống tối thiểu của người lao độ
+        [492] KHOAN 4 - Khoản 4
+            Preview: Chính phủ quy định chi tiết Điều này; quyết định và công bố mức lương tối thiểu 
+    [493] DIEU 92 - Hội đồng tiền lương quốc gia
+        [494] KHOAN 1 - Khoản 1
+            Preview: Hội đồng tiền lương quốc gia là cơ quan tư vấn cho Chính phủ về mức lương tối th
+        [495] KHOAN 2 - Khoản 2
+            Preview: Thủ tướng Chính phủ thành lập Hội đồng tiền lương quốc gia bao gồm các thành viê
+        [496] KHOAN 3 - Khoản 3
+            Preview: Chính phủ quy định chức năng, nhiệm vụ, cơ cấu tổ chức và hoạt động của Hội đồng
+    [497] DIEU 93 - Xây dựng thang lương, bảng lương và định mức lao động
+        [498] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động phải xây dựng thang lương, bảng lương và định mức lao độn
+        [499] KHOAN 2 - Khoản 2
+            Preview: Mức lao động phải là mức trung bình bảo đảm số đông người lao động thực hiện đượ
+        [500] KHOAN 3 - Khoản 3
+            Preview: Người sử dụng lao động phải tham khảo ý kiến của tổ chức đại diện người lao động
+    [501] DIEU 94 - Nguyên tắc trả lương
+        [502] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động phải trả lương trực tiếp, đầy đủ, đúng hạn cho người lao 
+        [503] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động không được hạn chế hoặc can thiệp vào quyền tự quyết chi 
+    [504] DIEU 95 - Trả lương
+        [505] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động trả lương cho người lao động căn cứ vào tiền lương đã thỏ
+        [506] KHOAN 2 - Khoản 2
+            Preview: Tiền lương ghi trong hợp đồng lao động và tiền lương trả cho người lao động bằng
+        [507] KHOAN 3 - Khoản 3
+            Preview: Mỗi lần trả lương, người sử dụng lao động phải thông báo bảng kê trả lương cho n
+    [508] DIEU 96 - Hình thức trả lương
+        [509] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động và người lao động thỏa thuận về hình thức trả lương theo 
+        [510] KHOAN 2 - Khoản 2
+            Preview: Lương được trả bằng tiền mặt hoặc trả qua tài khoản cá nhân của người lao động đ
+        [511] KHOAN 3 - Khoản 3
+            Preview: Chính phủ quy định chi tiết Điều này.
+    [512] DIEU 97 - Kỳ hạn trả lương
+        [513] KHOAN 1 - Khoản 1
+            Preview: Người lao động hưởng lương theo giờ, ngày, tuần thì được trả lương sau giờ, ngày
+        [514] KHOAN 2 - Khoản 2
+            Preview: Người lao động hưởng lương theo tháng được trả một tháng một lần hoặc nửa tháng 
+        [515] KHOAN 3 - Khoản 3
+            Preview: Người lao động hưởng lương theo sản phẩm, theo khoán được trả lương theo thỏa th
+        [516] KHOAN 4 - Khoản 4
+            Preview: Trường hợp vì lý do bất khả kháng mà người sử dụng lao động đã tìm mọi biện pháp
+    [517] DIEU 98 - Tiền lương làm thêm giờ, làm việc vào ban đêm
+        [518] KHOAN 1 - Khoản 1
+            Preview: Người lao động làm thêm giờ được trả lương tính theo đơn giá tiền lương hoặc tiề
+            [519] DIEM a - Điểm a
+                Preview: Vào ngày thường, ít nhất bằng 150%;
+            [520] DIEM b - Điểm b
+                Preview: Vào ngày nghỉ hằng tuần, ít nhất bằng 200%;
+            [521] DIEM c - Điểm c
+                Preview: Vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể tiền 
+        [522] KHOAN 2 - Khoản 2
+            Preview: Người lao động làm việc vào ban đêm thì được trả thêm ít nhất bằng 30% tiền lươn
+        [523] KHOAN 3 - Khoản 3
+            Preview: Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy định t
+        [524] KHOAN 4 - Khoản 4
+            Preview: Chính phủ quy định chi tiết Điều này.
+    [525] DIEU 99 - Tiền lương ngừng việc
+        Preview: Trường hợp phải ngừng việc, người lao động được trả lương như sau:
+        [526] KHOAN 1 - Khoản 1
+            Preview: Nếu do lỗi của người sử dụng lao động thì người lao động được trả đủ tiền lương 
+        [527] KHOAN 2 - Khoản 2
+            Preview: Nếu do lỗi của người lao động thì người đó không được trả lương; những người lao
+        [528] KHOAN 3 - Khoản 3
+            Preview: Nếu vì sự cố về điện, nước mà không do lỗi của người sử dụng lao động hoặc do th
+            [529] DIEM a - Điểm a
+                Preview: Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc đư
+            [530] DIEM b - Điểm b
+                Preview: Trường hợp phải ngừng việc trên 14 ngày làm việc thì tiền lương ngừng việc do ha
+    [531] DIEU 100 - Trả lương thông qua người cai thầu
+        [532] KHOAN 1 - Khoản 1
+            Preview: Nơi nào sử dụng người cai thầu hoặc người có vai trò trung gian tương tự thì ngư
+        [533] KHOAN 2 - Khoản 2
+            Preview: Trường hợp người cai thầu hoặc người có vai trò trung gian tương tự không trả lư
+    [534] DIEU 101 - Tạm ứng tiền lương
+        [535] KHOAN 1 - Khoản 1
+            Preview: Người lao động được tạm ứng tiền lương theo điều kiện do hai bên thỏa thuận và k
+        [536] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động phải cho người lao động tạm ứng tiền lương tương ứng với 
+        [537] KHOAN 3 - Khoản 3
+            Preview: Khi nghỉ hằng năm, người lao động được tạm ứng một khoản tiền ít nhất bằng tiền 
+    [538] DIEU 102 - Khấu trừ tiền lương
+        [539] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động chỉ được khấu trừ tiền lương của người lao động để bồi th
+        [540] KHOAN 2 - Khoản 2
+            Preview: Người lao động có quyền được biết lý do khấu trừ tiền lương của mình.
+        [541] KHOAN 3 - Khoản 3
+            Preview: Mức khấu trừ tiền lương hằng tháng không được quá 30% tiền lương thực trả hằng t
+    [542] DIEU 103 - Chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp
+        Preview: Chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp và các chế độ khuyến khích đối với
+    [543] DIEU 104 - Thưởng
+        [544] KHOAN 1 - Khoản 1
+            Preview: Thưởng là số tiền hoặc tài sản hoặc bằng các hình thức khác mà người sử dụng lao
+        [545] KHOAN 2 - Khoản 2
+            Preview: Quy chế thưởng do người sử dụng lao động quyết định và công bố công khai tại nơi
+[546] CHUONG VII - THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI
+    Preview: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI
+    [547] DIEU 105 - Thời giờ làm việc bình thường
+        [548] KHOAN 1 - Khoản 1
+            Preview: Thời giờ làm việc bình thường không quá 08 giờ trong 01 ngày và không quá 48 giờ
+        [549] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động có quyền quy định thời giờ làm việc theo ngày hoặc tuần n
+        [550] KHOAN 3 - Khoản 3
+            Preview: Người sử dụng lao động có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp x
+    [551] DIEU 106 - Giờ làm việc ban đêm
+        Preview: Giờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.
+    [552] DIEU 107 - Làm thêm giờ
+        [553] KHOAN 1 - Khoản 1
+            Preview: Thời gian làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình
+        [554] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đầy 
+            [555] DIEM a - Điểm a
+                Preview: Phải được sự đồng ý của người lao động;
+            [556] DIEM b - Điểm b
+                Preview: Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình th
+            [557] DIEM c - Điểm c
+                Preview: Bảo đảm số giờ làm thêm của người lao động không quá 200 giờ trong 01 năm, trừ t
+        [558] KHOAN 3 - Khoản 3
+            Preview: Người sử dụng lao động được sử dụng người lao động làm thêm không quá 300 giờ tr
+            [559] DIEM a - Điểm a
+                Preview: Sản xuất, gia công xuất khẩu sản phẩm hàng dệt, may, da, giày, điện, điện tử, ch
+            [560] DIEM b - Điểm b
+                Preview: Sản xuất, cung cấp điện, viễn thông, lọc dầu; cấp, thoát nước;
+            [561] DIEM c - Điểm c
+                Preview: Trường hợp giải quyết công việc đòi hỏi lao động có trình độ chuyên môn, kỹ thuậ
+            [562] DIEM d - Điểm d
+                Preview: Trường hợp phải giải quyết công việc cấp bách, không thể trì hoãn do tính chất t
+            [563] DIEM đ - Điểm đ
+                Preview: Trường hợp khác do Chính phủ quy định.
+        [564] KHOAN 4 - Khoản 4
+            Preview: Khi tổ chức làm thêm giờ theo quy định tại khoản 3 Điều này, người sử dụng lao đ
+        [565] KHOAN 5 - Khoản 5
+            Preview: Chính phủ quy định chi tiết Điều này.
+    [566] DIEU 108 - Làm thêm giờ trong trường hợp đặc biệt
+        Preview: Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ vào bất kỳ n
+        [567] KHOAN 1 - Khoản 1
+            Preview: Thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh theo quy
+        [568] KHOAN 2 - Khoản 2
+            Preview: Thực hiện các công việc nhằm bảo vệ tính mạng con người, tài sản của cơ quan, tổ
+    [569] DIEU 109 - Nghỉ trong giờ làm việc
+        [570] KHOAN 1 - Khoản 1
+            Preview: Người lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật
+        [571] KHOAN 2 - Khoản 2
+            Preview: Ngoài thời gian nghỉ quy định tại khoản 1 Điều này, người sử dụng lao động bố tr
+    [572] DIEU 110 - Nghỉ chuyển ca
+        Preview: Người lao động làm việc theo ca được nghỉ ít nhất 12 giờ trước khi chuyển sang c
+    [573] DIEU 111 - Nghỉ hằng tuần
+        [574] KHOAN 1 - Khoản 1
+            Preview: Mỗi tuần, người lao động được nghỉ ít nhất 24 giờ liên tục. Trong trường hợp đặc
+        [575] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày 
+        [576] KHOAN 3 - Khoản 3
+            Preview: Nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết quy định tại khoản 1 Điều 11
+    [577] DIEU 112 - Nghỉ lễ, tết
+        [578] KHOAN 1 - Khoản 1
+            Preview: Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết s
+            [579] DIEM a - Điểm a
+                Preview: Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch);
+            [580] DIEM b - Điểm b
+                Preview: Tết Âm lịch: 05 ngày;
+            [581] DIEM c - Điểm c
+                Preview: Ngày Chiến thắng: 01 ngày (ngày 30 tháng 4 dương lịch);
+            [582] DIEM d - Điểm d
+                Preview: Ngày Quốc tế lao động: 01 ngày (ngày 01 tháng 5 dương lịch);
+            [583] DIEM đ - Điểm đ
+                Preview: Quốc khánh: 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sa
+            [584] DIEM e - Điểm e
+                Preview: Ngày Giỗ Tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 âm lịch).
+        [585] KHOAN 2 - Khoản 2
+            Preview: Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy 
+        [586] KHOAN 3 - Khoản 3
+            Preview: Hằng năm, căn cứ vào điều kiện thực tế, Thủ tướng Chính phủ quyết định cụ thể ng
+    [587] DIEU 113 - Nghỉ hằng năm
+        [588] KHOAN 1 - Khoản 1
+            Preview: Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ
+            [589] DIEM a - Điểm a
+                Preview: 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;
+            [590] DIEM b - Điểm b
+                Preview: 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyế
+            [591] DIEM c - Điểm c
+                Preview: 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, 
+        [592] KHOAN 2 - Khoản 2
+            Preview: Người lao động làm việc chưa đủ 12 tháng cho một người sử dụng lao động thì số n
+        [593] KHOAN 3 - Khoản 3
+            Preview: Trường hợp do thôi việc, bị mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hế
+        [594] KHOAN 4 - Khoản 4
+            Preview: Người sử dụng lao động có trách nhiệm quy định lịch nghỉ hằng năm sau khi tham k
+        [595] KHOAN 5 - Khoản 5
+            Preview: Khi nghỉ hằng năm mà chưa đến kỳ trả lương, người lao động được tạm ứng tiền lươ
+        [596] KHOAN 6 - Khoản 6
+            Preview: Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ, đường sắ
+        [597] KHOAN 7 - Khoản 7
+            Preview: Chính phủ quy định chi tiết điều này.
+    [598] DIEU 114 - Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc
+        Preview: Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm c
+    [599] DIEU 115 - Nghỉ việc riêng, nghỉ không hưởng lương
+        [600] KHOAN 1 - Khoản 1
+            Preview: Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo 
+            [601] DIEM a - Điểm a
+                Preview: Kết hôn: nghỉ 03 ngày;
+            [602] DIEM b - Điểm b
+                Preview: Con đẻ, con nuôi kết hôn: nghỉ 01 ngày;
+            [603] DIEM c - Điểm c
+                Preview: Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc c
+        [604] KHOAN 2 - Khoản 2
+            Preview: Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người s
+        [605] KHOAN 3 - Khoản 3
+            Preview: Ngoài quy định tại khoản 1 và khoản 2 Điều này, người lao động có thể thỏa thuận
+    [606] DIEU 116 - Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt
+        Preview: Đối với các công việc có tính chất đặc biệt trong lĩnh vực vận tải đường bộ, đườ
+[607] CHUONG VIII - KỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT
+    Preview: KỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT
+    [608] DIEU 117 - Kỷ luật lao động
+        Preview: Kỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điề
+    [609] DIEU 118 - Nội quy lao động
+        [610] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động phải ban hành nội quy lao động, nếu sử dụng từ 10 người l
+        [611] KHOAN 2 - Khoản 2
+            Preview: Nội dung nội quy lao động không được trái với pháp luật về lao động và quy định 
+            [612] DIEM a - Điểm a
+                Preview: Thời giờ làm việc, thời giờ nghỉ ngơi;
+            [613] DIEM b - Điểm b
+                Preview: Trật tự tại nơi làm việc;
+            [614] DIEM c - Điểm c
+                Preview: An toàn, vệ sinh lao động;
+            [615] DIEM d - Điểm d
+                Preview: Phòng, chống quấy rối tình dục tại nơi làm việc; trình tự, thủ tục xử lý hành vi
+            [616] DIEM đ - Điểm đ
+                Preview: Việc bảo vệ tài sản và bí mật kinh doanh, bí mật công nghệ, sở hữu trí tuệ của n
+            [617] DIEM e - Điểm e
+                Preview: Trường hợp được tạm thời chuyển người lao động làm việc khác so với hợp đồng lao
+            [618] DIEM g - Điểm g
+                Preview: Các hành vi vi phạm kỷ luật lao động của người lao động và các hình thức xử lý k
+            [619] DIEM h - Điểm h
+                Preview: Trách nhiệm vật chất;
+            [620] DIEM i - Điểm i
+                Preview: Người có thẩm quyền xử lý kỷ luật lao động.
+        [621] KHOAN 3 - Khoản 3
+            Preview: Trước khi ban hành nội quy lao động hoặc sửa đổi, bổ sung nội quy lao động, ngườ
+        [622] KHOAN 4 - Khoản 4
+            Preview: Nội quy lao động phải được thông báo đến người lao động và những nội dung chính 
+        [623] KHOAN 5 - Khoản 5
+            Preview: Chính phủ quy định chi tiết Điều này.
+    [624] DIEU 119 - Đăng ký nội quy lao động
+        [625] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động sử dụng từ 10 người lao động trở lên phải đăng ký nội quy
+        [626] KHOAN 2 - Khoản 2
+            Preview: Trong thời hạn 10 ngày kể từ ngày ban hành nội quy lao động, người sử dụng lao đ
+        [627] KHOAN 3 - Khoản 3
+            Preview: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký nội quy lao đ
+        [628] KHOAN 4 - Khoản 4
+            Preview: Người sử dụng lao động có các chi nhánh, đơn vị, cơ sở sản xuất, kinh doanh đặt 
+        [629] KHOAN 5 - Khoản 5
+            Preview: Căn cứ điều kiện cụ thể, cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấ
+    [630] DIEU 120 - Hồ sơ đăng ký nội quy lao động
+        Preview: Hồ sơ đăng ký nội quy lao động bao gồm:
+        [631] KHOAN 1 - Khoản 1
+            Preview: Văn bản đề nghị đăng ký nội quy lao động;
+        [632] KHOAN 2 - Khoản 2
+            Preview: Nội quy lao động;
+        [633] KHOAN 3 - Khoản 3
+            Preview: Văn bản góp ý của tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ ch
+        [634] KHOAN 4 - Khoản 4
+            Preview: Các văn bản của người sử dụng lao động có quy định liên quan đến kỷ luật lao độn
+    [635] DIEU 121 - Hiệu lực của nội quy lao động
+        Preview: Nội quy lao động có hiệu lực sau 15 ngày kể từ ngày cơ quan nhà nước có thẩm quy
+    [636] DIEU 122 - Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động
+        [637] KHOAN 1 - Khoản 1
+            Preview: Việc xử lý kỷ luật lao động được quy định như sau:
+            [638] DIEM a - Điểm a
+                Preview: Người sử dụng lao động phải chứng minh được lỗi của người lao động;
+            [639] DIEM b - Điểm b
+                Preview: Phải có sự tham gia của tổ chức đại diện người lao động tại cơ sở mà người lao đ
+            [640] DIEM c - Điểm c
+                Preview: Người lao động phải có mặt và có quyền tự bào chữa, nhờ luật sư hoặc tổ chức đại
+            [641] DIEM d - Điểm d
+                Preview: Việc xử lý kỷ luật lao động phải được ghi thành biên bản.
+        [642] KHOAN 2 - Khoản 2
+            Preview: Không được áp dụng nhiều hình thức xử lý kỷ luật lao động đối với một hành vi vi
+        [643] KHOAN 3 - Khoản 3
+            Preview: Khi một người lao động đồng thời có nhiều hành vi vi phạm kỷ luật lao động thì c
+        [644] KHOAN 4 - Khoản 4
+            Preview: Không được xử lý kỷ luật lao động đối với người lao động đang trong thời gian sa
+            [645] DIEM a - Điểm a
+                Preview: Nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động;
+            [646] DIEM b - Điểm b
+                Preview: Đang bị tạm giữ, tạm giam;
+            [647] DIEM c - Điểm c
+                Preview: Đang chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận đối với
+            [648] DIEM d - Điểm d
+                Preview: Người lao động nữ mang thai; người lao động nghỉ thai sản, nuôi con dưới 12 thán
+        [649] KHOAN 5 - Khoản 5
+            Preview: Không xử lý kỷ luật lao động đối với người lao động vi phạm kỷ luật lao động tro
+        [650] KHOAN 6 - Khoản 6
+            Preview: Chính phủ quy định trình tự, thủ tục xử lý kỷ luật lao động.
+    [651] DIEU 123 - Thời hiệu xử lý kỷ luật lao động
+        [652] KHOAN 1 - Khoản 1
+            Preview: Thời hiệu xử lý kỷ luật lao động là 06 tháng kể từ ngày xảy ra hành vi vi phạm; 
+        [653] KHOAN 2 - Khoản 2
+            Preview: Khi hết thời gian quy định tại khoản 4 Điều 122 của Bộ luật này, nếu hết thời hi
+        [654] KHOAN 3 - Khoản 3
+            Preview: Người sử dụng lao động phải ban hành quyết định xử lý kỷ luật lao động trong thờ
+    [655] DIEU 124 - Hình thức xử lý kỷ luật lao động
+        [656] KHOAN 1 - Khoản 1
+            Preview: Khiển trách.
+        [657] KHOAN 2 - Khoản 2
+            Preview: Kéo dài thời hạn nâng lương không quá 06 tháng.
+        [658] KHOAN 3 - Khoản 3
+            Preview: Cách chức.
+        [659] KHOAN 4 - Khoản 4
+            Preview: Sa thải.
+    [660] DIEU 125 - Áp dụng hình thức xử lý kỷ luật sa thải
+        Preview: Hình thức xử lý kỷ luật sa thải được người sử dụng lao động áp dụng trong trường
+        [661] KHOAN 1 - Khoản 1
+            Preview: Người lao động có hành vi trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử d
+        [662] KHOAN 2 - Khoản 2
+            Preview: Người lao động có hành vi tiết lộ bí mật kinh doanh, bí mật công nghệ, xâm phạm 
+        [663] KHOAN 3 - Khoản 3
+            Preview: Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức mà tá
+        [664] KHOAN 4 - Khoản 4
+            Preview: Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày
+    [665] DIEU 126 - Xóa kỷ luật, giảm thời hạn chấp hành kỷ luật lao động
+        [666] KHOAN 1 - Khoản 1
+            Preview: Người lao động bị khiển trách sau 03 tháng hoặc bị xử lý kỷ luật kéo dài thời hạ
+        [667] KHOAN 2 - Khoản 2
+            Preview: Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương sau khi chấp hành đư
+    [668] DIEU 127 - Các hành vi bị nghiêm cấm khi xử lý kỷ luật lao động
+        [669] KHOAN 1 - Khoản 1
+            Preview: Xâm phạm sức khỏe, danh dự, tính mạng, uy tín, nhân phẩm của người lao động.
+        [670] KHOAN 2 - Khoản 2
+            Preview: Phạt tiền, cắt lương thay việc xử lý kỷ luật lao động.
+        [671] KHOAN 3 - Khoản 3
+            Preview: Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm không được quy 
+    [672] DIEU 128 - Tạm đình chỉ công việc
+        [673] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động có quyền tạm đình chỉ công việc của người lao động khi vụ
+        [674] KHOAN 2 - Khoản 2
+            Preview: Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt khôn
+        [675] KHOAN 3 - Khoản 3
+            Preview: Trường hợp người lao động bị xử lý kỷ luật lao động, người lao động cũng không p
+        [676] KHOAN 4 - Khoản 4
+            Preview: Trường hợp người lao động không bị xử lý kỷ luật lao động thì được người sử dụng
+    [677] DIEU 129 - Bồi thường thiệt hại
+        [678] KHOAN 1 - Khoản 1
+            Preview: Người lao động làm hư hỏng dụng cụ, thiết bị hoặc có hành vi khác gây thiệt hại 
+        [679] KHOAN 2 - Khoản 2
+            Preview: Người lao động làm mất dụng cụ, thiết bị, tài sản của người sử dụng lao động hoặ
+    [680] DIEU 130 - Xử lý bồi thường thiệt hại
+        [681] KHOAN 1 - Khoản 1
+            Preview: Việc xem xét, quyết định mức bồi thường thiệt hại phải căn cứ vào lỗi, mức độ th
+        [682] KHOAN 2 - Khoản 2
+            Preview: Chính phủ quy định trình tự, thủ tục, thời hiệu xử lý việc bồi thường thiệt hại.
+    [683] DIEU 131 - Khiếu nại về kỷ luật lao động, trách nhiệm vật chất
+        Preview: Người bị xử lý kỷ luật lao động, bị tạm đình chỉ công việc hoặc phải bồi thường 
+[684] CHUONG IX - AN TOÀN, VỆ SINH LAO ĐỘNG
+    Preview: AN TOÀN, VỆ SINH LAO ĐỘNG
+    [685] DIEU 132 - Tuân thủ pháp luật về an toàn, vệ sinh lao động
+        Preview: Người sử dụng lao động, người lao động và cơ quan, tổ chức, cá nhân có liên quan
+    [686] DIEU 133 - Chương trình an toàn, vệ sinh lao động
+        [687] KHOAN 1 - Khoản 1
+            Preview: Chính phủ quyết định Chương trình quốc gia về an toàn, vệ sinh lao động.
+        [688] KHOAN 2 - Khoản 2
+            Preview: Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp quyết định Chương trìn
+    [689] DIEU 134 - Bảo đảm an toàn, vệ sinh lao động tại nơi làm việc
+        [690] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động có trách nhiệm thực hiện đầy đủ các giải pháp nhằm bảo đả
+        [691] KHOAN 2 - Khoản 2
+            Preview: Người lao động có trách nhiệm chấp hành quy định, nội quy, quy trình, yêu cầu về
+[692] CHUONG X - NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG NỮ VÀ BẢO ĐẢM BÌNH ĐẲNG GIỚI
+    Preview: NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG NỮ VÀ BẢO ĐẢM BÌNH ĐẲNG GIỚI
+    [693] DIEU 135 - Chính sách của Nhà nước
+        [694] KHOAN 1 - Khoản 1
+            Preview: Bảo đảm quyền bình đẳng của lao động nữ, lao động nam, thực hiện các biện pháp b
+        [695] KHOAN 2 - Khoản 2
+            Preview: Khuyến khích người sử dụng lao động tạo điều kiện để lao động nữ, lao động nam c
+        [696] KHOAN 3 - Khoản 3
+            Preview: Có biện pháp tạo việc làm, cải thiện điều kiện lao động, nâng cao trình độ nghề 
+        [697] KHOAN 4 - Khoản 4
+            Preview: Có chính sách giảm thuế đối với người sử dụng lao động có sử dụng nhiều lao động
+        [698] KHOAN 5 - Khoản 5
+            Preview: Nhà nước có kế hoạch, biện pháp tổ chức nhà trẻ, lớp mẫu giáo ở nơi có nhiều lao
+        [699] KHOAN 6 - Khoản 6
+            Preview: Chính phủ quy định chi tiết Điều này.
+    [700] DIEU 136 - Trách nhiệm của người sử dụng lao động
+        [701] KHOAN 1 - Khoản 1
+            Preview: Bảo đảm thực hiện bình đẳng giới và các biện pháp thúc đẩy bình đẳng giới trong 
+        [702] KHOAN 2 - Khoản 2
+            Preview: Tham khảo ý kiến của lao động nữ hoặc đại diện của họ khi quyết định những vấn đ
+        [703] KHOAN 3 - Khoản 3
+            Preview: Bảo đảm có đủ buồng tắm và buồng vệ sinh phù hợp tại nơi làm việc.
+        [704] KHOAN 4 - Khoản 4
+            Preview: Giúp đỡ, hỗ trợ xây dựng nhà trẻ, lớp mẫu giáo hoặc một phần chi phí gửi trẻ, mẫ
+    [705] DIEU 137 - Bảo vệ thai sản
+        [706] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động không được sử dụng người lao động làm việc ban đêm, làm t
+            [707] DIEM a - Điểm a
+                Preview: Mang thai từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu
+            [708] DIEM b - Điểm b
+                Preview: Đang nuôi con dưới 12 tháng tuổi, trừ trường hợp được người lao động đồng ý.
+        [709] KHOAN 2 - Khoản 2
+            Preview: Lao động nữ làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng
+        [710] KHOAN 3 - Khoản 3
+            Preview: Người sử dụng lao động không được sa thải hoặc đơn phương chấm dứt hợp đồng lao 
+        [711] KHOAN 4 - Khoản 4
+            Preview: Lao động nữ trong thời gian hành kinh được nghỉ mỗi ngày 30 phút, trong thời gia
+    [712] DIEU 138 - Quyền đơn phương chấm dứt, tạm hoãn hợp đồng lao động của lao động nữ mang thai
+        [713] KHOAN 1 - Khoản 1
+            Preview: Lao động nữ mang thai nếu có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quy
+        [714] KHOAN 2 - Khoản 2
+            Preview: Trường hợp tạm hoãn thực hiện hợp đồng lao động, thời gian tạm hoãn do người lao
+    [715] DIEU 139 - Nghỉ thai sản
+        [716] KHOAN 1 - Khoản 1
+            Preview: Lao động nữ được nghỉ thai sản trước và sau khi sinh con là 06 tháng; thời gian 
+        [717] KHOAN 2 - Khoản 2
+            Preview: Trong thời gian nghỉ thai sản, lao động nữ được hưởng chế độ thai sản theo quy đ
+        [718] KHOAN 3 - Khoản 3
+            Preview: Hết thời gian nghỉ thai sản theo quy định tại khoản 1 Điều này, nếu có nhu cầu, 
+        [719] KHOAN 4 - Khoản 4
+            Preview: Trước khi hết thời gian nghỉ thai sản theo quy định tại khoản 1 Điều này, lao độ
+        [720] KHOAN 5 - Khoản 5
+            Preview: Lao động nam khi vợ sinh con, người lao động nhận nuôi con nuôi dưới 06 tháng tu
+    [721] DIEU 140 - Bảo đảm việc làm cho lao động nghỉ thai sản
+        Preview: Lao động được bảo đảm việc làm cũ khi trở lại làm việc sau khi nghỉ hết thời gia
+    [722] DIEU 141 - Trợ cấp trong thời gian chăm sóc con ốm đau, thai sản và thực hiện các biện pháp tránh thai
+        Preview: Thời gian nghỉ việc khi chăm sóc con dưới 07 tuổi ốm đau, khám thai, sẩy thai, n
+    [723] DIEU 142 - Nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con
+        [724] KHOAN 1 - Khoản 1
+            Preview: Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành danh mục nghề, công việc 
+        [725] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động phải cung cấp đầy đủ thông tin về tính chất nguy hiểm, ng
+[726] CHUONG XI - NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG CHƯA THÀNH NIÊN VÀ MỘT SỐ LAO ĐỘNG KHÁC
+    Preview: NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG CHƯA THÀNH NIÊN VÀ MỘT SỐ LAO ĐỘNG KHÁC
+    [727] DIEU 143 - Lao động chưa thành niên
+        [728] KHOAN 1 - Khoản 1
+            Preview: Lao động chưa thành niên là người lao động chưa đủ 18 tuổi.
+        [729] KHOAN 2 - Khoản 2
+            Preview: Người từ đủ 15 tuổi đến chưa đủ 18 tuổi không được làm công việc hoặc làm việc ở
+        [730] KHOAN 3 - Khoản 3
+            Preview: Người từ đủ 13 tuổi đến chưa đủ 15 tuổi chỉ được làm công việc nhẹ theo danh mục
+        [731] KHOAN 4 - Khoản 4
+            Preview: Người chưa đủ 13 tuổi chỉ được làm các công việc theo quy định tại khoản 3 Điều 
+    [732] DIEU 144 - Nguyên tắc sử dụng lao động chưa thành niên
+        [733] KHOAN 1 - Khoản 1
+            Preview: Lao động chưa thành niên chỉ được làm công việc phù hợp với sức khỏe để bảo đảm 
+        [734] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động khi sử dụng lao động chưa thành niên có trách nhiệm quan 
+        [735] KHOAN 3 - Khoản 3
+            Preview: Khi sử dụng lao động chưa thành niên, người sử dụng lao động phải có sự đồng ý c
+        [736] KHOAN 4 - Khoản 4
+            Preview: Người sử dụng lao động phải tạo cơ hội để lao động chưa thành niên được học văn 
+    [737] DIEU 145 - Sử dụng người chưa đủ 15 tuổi làm việc
+        [738] KHOAN 1 - Khoản 1
+            Preview: Khi sử dụng người chưa đủ 15 tuổi làm việc, người sử dụng lao động phải tuân the
+            [739] DIEM a - Điểm a
+                Preview: Phải giao kết hợp đồng lao động bằng văn bản với người chưa đủ 15 tuổi và người 
+            [740] DIEM b - Điểm b
+                Preview: Bố trí giờ làm việc không ảnh hưởng đến thời gian học tập của người chưa đủ 15 t
+            [741] DIEM c - Điểm c
+                Preview: Phải có giấy khám sức khỏe của cơ sở khám bệnh, chữa bệnh có thẩm quyền xác nhận
+            [742] DIEM d - Điểm d
+                Preview: Bảo đảm điều kiện làm việc, an toàn, vệ sinh lao động phù hợp với lứa tuổi.
+        [743] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động chỉ được tuyển dụng và sử dụng người từ đủ 13 tuổi đến ch
+        [744] KHOAN 3 - Khoản 3
+            Preview: Người sử dụng lao động không được tuyển dụng và sử dụng người chưa đủ 13 tuổi là
+        [745] KHOAN 4 - Khoản 4
+            Preview: Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết Điều này.
+    [746] DIEU 146 - Thời giờ làm việc của người chưa thành niên
+        [747] KHOAN 1 - Khoản 1
+            Preview: Thời giờ làm việc của người chưa đủ 15 tuổi không được quá 04 giờ trong 01 ngày 
+        [748] KHOAN 2 - Khoản 2
+            Preview: Thời giờ làm việc của người từ đủ 15 tuổi đến chưa đủ 18 tuổi không được quá 08 
+    [749] DIEU 147 - Công việc và nơi làm việc cấm sử dụng người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi
+        [750] KHOAN 1 - Khoản 1
+            Preview: Cấm sử dụng người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi làm các công việc s
+            [751] DIEM a - Điểm a
+                Preview: Mang, vác, nâng các vật nặng vượt quá thể trạng của người chưa thành niên;
+            [752] DIEM b - Điểm b
+                Preview: Sản xuất, kinh doanh cồn, rượu, bia, thuốc lá, chất tác động đến tinh thần hoặc 
+            [753] DIEM c - Điểm c
+                Preview: Sản xuất, sử dụng hoặc vận chuyển hóa chất, khí gas, chất nổ;
+            [754] DIEM d - Điểm d
+                Preview: Bảo trì, bảo dưỡng thiết bị, máy móc;
+            [755] DIEM đ - Điểm đ
+                Preview: Phá dỡ các công trình xây dựng;
+            [756] DIEM e - Điểm e
+                Preview: Nấu, thổi, đúc, cán, dập, hàn kim loại;
+            [757] DIEM g - Điểm g
+                Preview: Lặn biển, đánh bắt thủy, hải sản xa bờ;
+            [758] DIEM h - Điểm h
+                Preview: Công việc khác gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của ngư
+        [759] KHOAN 2 - Khoản 2
+            Preview: Cấm sử dụng người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi làm việc ở các nơi 
+            [760] DIEM a - Điểm a
+                Preview: Dưới nước, dưới lòng đất, trong hang động, trong đường hầm;
+            [761] DIEM b - Điểm b
+                Preview: Công trường xây dựng;
+            [762] DIEM c - Điểm c
+                Preview: Cơ sở giết mổ gia súc;
+            [763] DIEM d - Điểm d
+                Preview: Sòng bạc, quán bar, vũ trường, phòng hát karaoke, khách sạn, nhà nghỉ, cơ sở tắm
+            [764] DIEM đ - Điểm đ
+                Preview: Nơi làm việc khác gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của 
+        [765] KHOAN 3 - Khoản 3
+            Preview: Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định danh mục tại điểm h khoản
+    [766] DIEU 148 - Người lao động cao tuổi
+        [767] KHOAN 1 - Khoản 1
+            Preview: Người lao động cao tuổi là người tiếp tục lao động sau độ tuổi theo quy định tại
+        [768] KHOAN 2 - Khoản 2
+            Preview: Người lao động cao tuổi có quyền thỏa thuận với người sử dụng lao động về việc r
+        [769] KHOAN 3 - Khoản 3
+            Preview: Nhà nước khuyến khích sử dụng người lao động cao tuổi làm việc phù hợp với sức k
+    [770] DIEU 149 - Sử dụng người lao động cao tuổi
+        [771] KHOAN 1 - Khoản 1
+            Preview: Khi sử dụng người lao động cao tuổi, hai bên có thể thỏa thuận giao kết nhiều lầ
+        [772] KHOAN 2 - Khoản 2
+            Preview: Khi người lao động cao tuổi đang hưởng lương hưu theo quy định của Luật Bảo hiểm
+        [773] KHOAN 3 - Khoản 3
+            Preview: Không được sử dụng người lao động cao tuổi làm nghề, công việc nặng nhọc, độc hạ
+        [774] KHOAN 4 - Khoản 4
+            Preview: Người sử dụng lao động có trách nhiệm quan tâm chăm sóc sức khỏe của người lao đ
+    [775] DIEU 150 - Người lao động Việt Nam đi làm việc ở nước ngoài, lao động cho các tổ chức, cá nhân nước ngoài tại Việt Nam
+        [776] KHOAN 1 - Khoản 1
+            Preview: Nhà nước khuyến khích doanh nghiệp, cơ quan, tổ chức, cá nhân tìm kiếm và mở rộn
+        [777] KHOAN 2 - Khoản 2
+            Preview: Công dân Việt Nam làm việc cho các tổ chức nước ngoài tại Việt Nam, trong khu cô
+        [778] KHOAN 3 - Khoản 3
+            Preview: Chính phủ quy định chi tiết việc tuyển dụng, quản lý lao động Việt Nam làm việc 
+    [779] DIEU 151 - Điều kiện người lao động nước ngoài làm việc tại Việt Nam
+        [780] KHOAN 1 - Khoản 1
+            Preview: Người lao động nước ngoài làm việc tại Việt Nam là người có quốc tịch nước ngoài
+            [781] DIEM a - Điểm a
+                Preview: Đủ 18 tuổi trở lên và có năng lực hành vi dân sự đầy đủ;
+            [782] DIEM b - Điểm b
+                Preview: Có trình độ chuyên môn, kỹ thuật, tay nghề, kinh nghiệm làm việc; có đủ sức khỏe
+            [783] DIEM c - Điểm c
+                Preview: Không phải là người đang trong thời gian chấp hành hình phạt hoặc chưa được xóa 
+            [784] DIEM d - Điểm d
+                Preview: Có giấy phép lao động do cơ quan nhà nước có thẩm quyền của Việt Nam cấp, trừ tr
+        [785] KHOAN 2 - Khoản 2
+            Preview: Thời hạn của hợp đồng lao động đối với người lao động nước ngoài làm việc tại Vi
+        [786] KHOAN 3 - Khoản 3
+            Preview: Người lao động nước ngoài làm việc tại Việt Nam phải tuân theo pháp luật lao độn
+    [787] DIEU 152 - Điều kiện tuyển dụng, sử dụng người lao động nước ngoài làm việc tại Việt Nam
+        [788] KHOAN 1 - Khoản 1
+            Preview: Doanh nghiệp, cơ quan, tổ chức, cá nhân, nhà thầu chỉ được tuyển dụng người lao 
+        [789] KHOAN 2 - Khoản 2
+            Preview: Doanh nghiệp, cơ quan, tổ chức, cá nhân trước khi tuyển dụng người lao động nước
+        [790] KHOAN 3 - Khoản 3
+            Preview: Nhà thầu trước khi tuyển và sử dụng lao động nước ngoài làm việc tại Việt Nam ph
+    [791] DIEU 153 - Trách nhiệm của người sử dụng lao động và người lao động nước ngoài
+        [792] KHOAN 1 - Khoản 1
+            Preview: Người lao động nước ngoài phải xuất trình giấy phép lao động khi có yêu cầu của 
+        [793] KHOAN 2 - Khoản 2
+            Preview: Người lao động nước ngoài làm việc tại Việt Nam không có giấy phép lao động sẽ b
+        [794] KHOAN 3 - Khoản 3
+            Preview: Người sử dụng lao động sử dụng người lao động nước ngoài làm việc cho mình mà kh
+    [795] DIEU 154 - Người lao động nước ngoài làm việc tại Việt Nam không thuộc diện cấp giấy phép lao động
+        [796] KHOAN 1 - Khoản 1
+            Preview: Là chủ sở hữu hoặc thành viên góp vốn của công ty trách nhiệm hữu hạn có giá trị
+        [797] KHOAN 2 - Khoản 2
+            Preview: Là Chủ tịch Hội đồng quản trị hoặc thành viên Hội đồng quản trị của công ty cổ p
+        [798] KHOAN 3 - Khoản 3
+            Preview: Là Trưởng văn phòng đại diện, dự án hoặc chịu trách nhiệm chính về hoạt động của
+        [799] KHOAN 4 - Khoản 4
+            Preview: Vào Việt Nam với thời hạn dưới 03 tháng để thực hiện chào bán dịch vụ.
+        [800] KHOAN 5 - Khoản 5
+            Preview: Vào Việt Nam với thời hạn dưới 03 tháng để xử lý sự cố, tình huống kỹ thuật, côn
+        [801] KHOAN 6 - Khoản 6
+            Preview: Là luật sư nước ngoài đã được cấp Giấy phép hành nghề luật sư tại Việt Nam theo 
+        [802] KHOAN 7 - Khoản 7
+            Preview: Trường hợp theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa 
+        [803] KHOAN 8 - Khoản 8
+            Preview: Người nước ngoài kết hôn với người Việt Nam và sinh sống trên lãnh thổ Việt Nam.
+        [804] KHOAN 9 - Khoản 9
+            Preview: Trường hợp khác theo quy định của Chính phủ.
+    [805] DIEU 155 - Thời hạn của giấy phép lao động
+        Preview: Thời hạn của giấy phép lao động tối đa là 02 năm, trường hợp gia hạn thì chỉ đượ
+    [806] DIEU 156 - Các trường hợp giấy phép lao động hết hiệu lực
+        [807] KHOAN 1 - Khoản 1
+            Preview: Giấy phép lao động hết thời hạn.
+        [808] KHOAN 2 - Khoản 2
+            Preview: Chấm dứt hợp đồng lao động.
+        [809] KHOAN 3 - Khoản 3
+            Preview: Nội dung của hợp đồng lao động không đúng với nội dung của giấy phép lao động đã
+        [810] KHOAN 4 - Khoản 4
+            Preview: Làm việc không đúng với nội dung trong giấy phép lao động đã được cấp.
+        [811] KHOAN 5 - Khoản 5
+            Preview: Hợp đồng trong các lĩnh vực là cơ sở phát sinh giấy phép lao động hết thời hạn h
+        [812] KHOAN 6 - Khoản 6
+            Preview: Có văn bản thông báo của phía nước ngoài thôi cử lao động là người nước ngoài là
+        [813] KHOAN 7 - Khoản 7
+            Preview: Doanh nghiệp, tổ chức, đối tác phía Việt Nam hoặc tổ chức nước ngoài tại Việt Na
+        [814] KHOAN 8 - Khoản 8
+            Preview: Giấy phép lao động bị thu hồi.
+    [815] DIEU 157 - Cấp, cấp lại, gia hạn, thu hồi giấy phép lao động, giấy xác nhận không thuộc diện cấp giấy phép lao động
+        Preview: Chính phủ quy định điều kiện, trình tự, thủ tục cấp, cấp lại, gia hạn, thu hồi g
+    [816] DIEU 158 - Chính sách của Nhà nước đối với lao động là người khuyết tật
+        Preview: Nhà nước bảo trợ quyền lao động, tự tạo việc làm của người lao động là người khu
+    [817] DIEU 159 - Sử dụng lao động là người khuyết tật
+        [818] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động phải bảo đảm về điều kiện lao động, công cụ lao động, an 
+        [819] KHOAN 2 - Khoản 2
+            Preview: Người sử dụng lao động phải tham khảo ý kiến của người lao động là người khuyết 
+    [820] DIEU 160 - Các hành vi bị nghiêm cấm khi sử dụng lao động là người khuyết tật
+        [821] KHOAN 1 - Khoản 1
+            Preview: Sử dụng người lao động là người khuyết tật nhẹ suy giảm khả năng lao động từ 51%
+        [822] KHOAN 2 - Khoản 2
+            Preview: Sử dụng người lao động là người khuyết tật làm công việc nặng nhọc, độc hại, ngu
+    [823] DIEU 161 - Lao động là người giúp việc gia đình
+        [824] KHOAN 1 - Khoản 1
+            Preview: Lao động là người giúp việc gia đình là người lao động làm thường xuyên các công
+        [825] KHOAN 2 - Khoản 2
+            Preview: Chính phủ quy định về lao động là người giúp việc gia đình.
+    [826] DIEU 162 - Hợp đồng lao động đối với lao động là người giúp việc gia đình
+        [827] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động phải giao kết hợp đồng lao động bằng văn bản với lao động
+        [828] KHOAN 2 - Khoản 2
+            Preview: Thời hạn của hợp đồng lao động đối với lao động là người giúp việc gia đình do h
+        [829] KHOAN 3 - Khoản 3
+            Preview: Hai bên thỏa thuận trong hợp đồng lao động về hình thức trả lương, kỳ hạn trả lư
+    [830] DIEU 163 - Nghĩa vụ của người sử dụng lao động khi sử dụng lao động là người giúp việc gia đình
+        [831] KHOAN 1 - Khoản 1
+            Preview: Thực hiện đầy đủ thỏa thuận đã giao kết trong hợp đồng lao động.
+        [832] KHOAN 2 - Khoản 2
+            Preview: Trả cho người giúp việc gia đình khoản tiền bảo hiểm xã hội, bảo hiểm y tế theo 
+        [833] KHOAN 3 - Khoản 3
+            Preview: Tôn trọng danh dự, nhân phẩm của người giúp việc gia đình.
+        [834] KHOAN 4 - Khoản 4
+            Preview: Bố trí chỗ ăn, ở hợp vệ sinh cho người giúp việc gia đình nếu có thỏa thuận.
+        [835] KHOAN 5 - Khoản 5
+            Preview: Tạo cơ hội cho người giúp việc gia đình được tham gia học văn hóa, giáo dục nghề
+        [836] KHOAN 6 - Khoản 6
+            Preview: Trả tiền tàu xe đi đường khi người giúp việc gia đình thôi việc về nơi cư trú, t
+    [837] DIEU 164 - Nghĩa vụ của lao động là người giúp việc gia đình
+        [838] KHOAN 1 - Khoản 1
+            Preview: Thực hiện đầy đủ thỏa thuận đã giao kết trong hợp đồng lao động.
+        [839] KHOAN 2 - Khoản 2
+            Preview: Phải bồi thường theo thỏa thuận hoặc theo quy định của pháp luật nếu làm hỏng, m
+        [840] KHOAN 3 - Khoản 3
+            Preview: Thông báo kịp thời với người sử dụng lao động về khả năng, nguy cơ gây tai nạn, 
+        [841] KHOAN 4 - Khoản 4
+            Preview: Tố cáo với cơ quan có thẩm quyền nếu người sử dụng lao động có hành vi ngược đãi
+    [842] DIEU 165 - Các hành vi bị nghiêm cấm đối với người sử dụng lao động
+        [843] KHOAN 1 - Khoản 1
+            Preview: Ngược đãi, quấy rối tình dục, cưỡng bức lao động, dùng vũ lực đối với lao động l
+        [844] KHOAN 2 - Khoản 2
+            Preview: Giao việc cho người giúp việc gia đình không theo hợp đồng lao động.
+        [845] KHOAN 3 - Khoản 3
+            Preview: Giữ giấy tờ tùy thân của người lao động. Mục 6. MỘT SỐ LAO ĐỘNG KHÁC
+    [846] DIEU 166 - Người lao động làm việc trong lĩnh vực nghệ thuật, thể dục, thể thao, hàng hải, hàng không
+        Preview: Người lao động làm việc trong lĩnh vực nghệ thuật, thể dục, thể thao, hàng hải, 
+    [847] DIEU 167 - Người lao động nhận công việc về làm tại nhà
+        Preview: Người lao động có thể thỏa thuận với người sử dụng lao động để nhận việc về làm 
+[848] CHUONG XII - BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP
+    Preview: BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP
+    [849] DIEU 168 - Tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp
+        [850] KHOAN 1 - Khoản 1
+            Preview: Người sử dụng lao động, người lao động phải tham gia bảo hiểm xã hội bắt buộc, b
+        [851] KHOAN 2 - Khoản 2
+            Preview: Trong thời gian người lao động nghỉ việc hưởng chế độ bảo hiểm xã hội thì người 
+        [852] KHOAN 3 - Khoản 3
+            Preview: Đối với người lao động không thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc, 
+    [853] DIEU 169 - Tuổi nghỉ hưu
+        [854] KHOAN 1 - Khoản 1
+            Preview: Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định
+        [855] KHOAN 2 - Khoản 2
+            Preview: Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều 
+        [856] KHOAN 3 - Khoản 3
+            Preview: Người lao động bị suy giảm khả năng lao động; làm nghề, công việc đặc biệt nặng 
+        [857] KHOAN 4 - Khoản 4
+            Preview: Người lao động có trình độ chuyên môn, kỹ thuật cao và một số trường hợp đặc biệ
+        [858] KHOAN 5 - Khoản 5
+            Preview: Chính phủ quy định chi tiết Điều này.
+[859] CHUONG XIII - TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG TẠI CƠ SỞ
+    Preview: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG TẠI CƠ SỞ
+    [860] DIEU 170 - Quyền thành lập, gia nhập và tham gia hoạt động của tổ chức đại diện người lao động tại cơ sở
+        [861] KHOAN 1 - Khoản 1
+            Preview: Người lao động có quyền thành lập, gia nhập và hoạt động công đoàn theo quy định
+        [862] KHOAN 2 - Khoản 2
+            Preview: Người lao động trong doanh nghiệp có quyền thành lập, gia nhập và tham gia hoạt 
+        [863] KHOAN 3 - Khoản 3
+            Preview: Các tổ chức đại diện người lao động quy định tại khoản 1 và khoản 2 Điều này bìn
+    [864] DIEU 171 - Công đoàn cơ sở thuộc hệ thống tổ chức Công đoàn Việt Nam
+        [865] KHOAN 1 - Khoản 1
+            Preview: Công đoàn cơ sở thuộc hệ thống tổ chức Công đoàn Việt Nam được thành lập ở các c
+        [866] KHOAN 2 - Khoản 2
+            Preview: Việc thành lập, giải thể, tổ chức và hoạt động của Công đoàn cơ sở được thực hiệ
+    [867] DIEU 172 - Thành lập, gia nhập tổ chức của người lao động tại doanh nghiệp
+        [868] KHOAN 1 - Khoản 1
+            Preview: Tổ chức của người lao động tại doanh nghiệp được thành lập và hoạt động hợp pháp
+        [869] KHOAN 2 - Khoản 2
+            Preview: Tổ chức của người lao động tại doanh nghiệp bị thu hồi đăng ký khi vi phạm về tô
+        [870] KHOAN 3 - Khoản 3
+            Preview: Trường hợp tổ chức của người lao động tại doanh nghiệp gia nhập Công đoàn Việt N
+        [871] KHOAN 4 - Khoản 4
+            Preview: Chính phủ quy định về hồ sơ, trình tự, thủ tục đăng ký; thẩm quyền, thủ tục cấp 
+    [872] DIEU 173 - Ban lãnh đạo và thành viên tổ chức của người lao động tại doanh nghiệp
+        [873] KHOAN 1 - Khoản 1
+            Preview: Tại thời điểm đăng ký, tổ chức của người lao động tại doanh nghiệp phải có số lư
+        [874] KHOAN 2 - Khoản 2
+            Preview: Ban lãnh đạo do thành viên của tổ chức của người lao động tại doanh nghiệp bầu. 
+    [875] DIEU 174 - Điều lệ tổ chức của người lao động tại doanh nghiệp
+        [876] KHOAN 1 - Khoản 1
+            Preview: Điều lệ tổ chức của người lao động tại doanh nghiệp phải có các nội dung chủ yếu
+            [877] DIEM a - Điểm a
+                Preview: Tên, địa chỉ tổ chức; biểu tượng (nếu có);
+            [878] DIEM b - Điểm b
+                Preview: Tôn chỉ, mục đích và phạm vi hoạt động là bảo vệ quyền, lợi ích hợp pháp, chính 
+            [879] DIEM c - Điểm c
+                Preview: Điều kiện, thủ tục gia nhập và ra khỏi tổ chức của người lao động tại doanh nghi
+            [880] DIEM d - Điểm d
+                Preview: Cơ cấu tổ chức, nhiệm kỳ, người đại diện của tổ chức;
+            [881] DIEM đ - Điểm đ
+                Preview: Nguyên tắc tổ chức, hoạt động;
+            [882] DIEM e - Điểm e
+                Preview: Thể thức thông qua quyết định của tổ chức. Những nội dung phải do thành viên quy
+            [883] DIEM g - Điểm g
+                Preview: Phí thành viên, nguồn tài sản, tài chính và việc quản lý, sử dụng tài sản, tài c
+            [884] DIEM h - Điểm h
+                Preview: Kiến nghị và giải quyết kiến nghị của thành viên trong nội bộ tổ chức.
+        [885] KHOAN 2 - Khoản 2
+            Preview: Chính phủ quy định chi tiết Điều này.
+    [886] DIEU 175 - Các hành vi bị nghiêm cấm đối với người sử dụng lao động liên quan đến thành lập, gia nhập và hoạt động của tổ chức đại diện người lao động tại cơ sở
+        [887] KHOAN 1 - Khoản 1
+            Preview: Phân biệt đối xử đối với người lao động, thành viên ban lãnh đạo của tổ chức đại
+            [888] DIEM a - Điểm a
+                Preview: Yêu cầu tham gia, không tham gia hoặc ra khỏi tổ chức đại diện người lao động tạ
+            [889] DIEM b - Điểm b
+                Preview: Sa thải, kỷ luật, đơn phương chấm dứt hợp đồng lao động, không tiếp tục giao kết
+            [890] DIEM c - Điểm c
+                Preview: Phân biệt đối xử về tiền lương, thời giờ làm việc, các quyền và nghĩa vụ khác tr
+            [891] DIEM d - Điểm d
+                Preview: Cản trở, gây khó khăn liên quan đến công việc nhằm làm suy yếu hoạt động của tổ 
+        [892] KHOAN 2 - Khoản 2
+            Preview: Can thiệp, thao túng quá trình thành lập, bầu cử, xây dựng kế hoạch công tác và 
+    [893] DIEU 176 - Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở
+        [894] KHOAN 1 - Khoản 1
+            Preview: Thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở có quyền s
+            [895] DIEM a - Điểm a
+                Preview: Tiếp cận người lao động tại nơi làm việc trong quá trình thực hiện các nhiệm vụ 
+            [896] DIEM b - Điểm b
+                Preview: Tiếp cận người sử dụng lao động để thực hiện các nhiệm vụ đại diện của tổ chức đ
+            [897] DIEM c - Điểm c
+                Preview: Được sử dụng thời gian làm việc theo quy định tại khoản 2 và khoản 3 Điều này để
+            [898] DIEM d - Điểm d
+                Preview: Được hưởng các bảo đảm khác trong quan hệ lao động và trong việc thực hiện chức 
+        [899] KHOAN 2 - Khoản 2
+            Preview: Chính phủ quy định thời gian tối thiểu mà người sử dụng lao động dành cho toàn b
+        [900] KHOAN 3 - Khoản 3
+            Preview: Tổ chức đại diện người lao động tại cơ sở và người sử dụng lao động thỏa thuận v
+    [901] DIEU 177 - Nghĩa vụ của người sử dụng lao động đối với tổ chức đại diện người lao động tại cơ sở
+        [902] KHOAN 1 - Khoản 1
+            Preview: Không được cản trở, gây khó khăn khi người lao động tiến hành các hoạt động hợp 
+        [903] KHOAN 2 - Khoản 2
+            Preview: Công nhận và tôn trọng các quyền của tổ chức đại diện người lao động tại cơ sở đ
+        [904] KHOAN 3 - Khoản 3
+            Preview: Phải thỏa thuận bằng văn bản với ban lãnh đạo của tổ chức đại diện người lao độn
+        [905] KHOAN 4 - Khoản 4
+            Preview: Phải gia hạn hợp đồng lao động đã giao kết đến hết nhiệm kỳ cho người lao động l
+        [906] KHOAN 5 - Khoản 5
+            Preview: Các nghĩa vụ khác theo quy định của pháp luật.
+    [907] DIEU 178 - Quyền và nghĩa vụ của tổ chức đại diện người lao động tại cơ sở trong quan hệ lao động
+        [908] KHOAN 1 - Khoản 1
+            Preview: Thương lượng tập thể với người sử dụng lao động theo quy định của Bộ luật này.
+        [909] KHOAN 2 - Khoản 2
+            Preview: Đối thoại tại nơi làm việc theo quy định của Bộ luật này.
+        [910] KHOAN 3 - Khoản 3
+            Preview: Được tham khảo ý kiến xây dựng và giám sát việc thực hiện thang lương, bảng lươn
+        [911] KHOAN 4 - Khoản 4
+            Preview: Đại diện cho người lao động trong quá trình giải quyết khiếu nại, tranh chấp lao
+        [912] KHOAN 5 - Khoản 5
+            Preview: Tổ chức và lãnh đạo đình công theo quy định của Bộ luật này.
+        [913] KHOAN 6 - Khoản 6
+            Preview: Tiếp nhận hỗ trợ kỹ thuật của cơ quan, tổ chức đăng ký hoạt động hợp pháp tại Vi
+        [914] KHOAN 7 - Khoản 7
+            Preview: Được người sử dụng lao động bố trí nơi làm việc và được cung cấp thông tin, bảo 
+        [915] KHOAN 8 - Khoản 8
+            Preview: Các quyền và nghĩa vụ khác theo quy định của pháp luật.
+[916] CHUONG XIV - GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG
+    Preview: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG
+    [917] DIEU 179 - Tranh chấp lao động
+        [918] KHOAN 1 - Khoản 1
+            Preview: Tranh chấp lao động là tranh chấp về quyền và nghĩa vụ, lợi ích phát sinh giữa c
+            [919] DIEM a - Điểm a
+                Preview: Tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động; giữa
+            [920] DIEM b - Điểm b
+                Preview: Tranh chấp lao động tập thể về quyền hoặc về lợi ích giữa một hay nhiều tổ chức 
+        [921] KHOAN 2 - Khoản 2
+            Preview: Tranh chấp lao động tập thể về quyền là tranh chấp giữa một hay nhiều tổ chức đạ
+            [922] DIEM a - Điểm a
+                Preview: Có sự khác nhau trong việc hiểu và thực hiện quy định của thỏa ước lao động tập 
+            [923] DIEM b - Điểm b
+                Preview: Có sự khác nhau trong việc hiểu và thực hiện quy định của pháp luật về lao động;
+            [924] DIEM c - Điểm c
+                Preview: Khi người sử dụng lao động có hành vi phân biệt đối xử đối với người lao động, t
+        [925] KHOAN 3 - Khoản 3
+            Preview: Tranh chấp lao động tập thể về lợi ích bao gồm:
+            [926] DIEM a - Điểm a
+                Preview: Tranh chấp lao động phát sinh trong quá trình thương lượng tập thể;
+            [927] DIEM b - Điểm b
+                Preview: Khi một bên từ chối thương lượng hoặc không tiến hành thương lượng trong thời hạ
+    [928] DIEU 180 - Nguyên tắc giải quyết tranh chấp lao động
+        [929] KHOAN 1 - Khoản 1
+            Preview: Tôn trọng quyền tự định đoạt thông qua thương lượng của các bên trong suốt quá t
+        [930] KHOAN 2 - Khoản 2
+            Preview: Coi trọng giải quyết tranh chấp lao động thông qua hòa giải, trọng tài trên cơ s
+        [931] KHOAN 3 - Khoản 3
+            Preview: Công khai, minh bạch, khách quan, kịp thời, nhanh chóng và đúng pháp luật.
+        [932] KHOAN 4 - Khoản 4
+            Preview: Bảo đảm sự tham gia của đại diện các bên trong quá trình giải quyết tranh chấp l
+        [933] KHOAN 5 - Khoản 5
+            Preview: Việc giải quyết tranh chấp lao động do cơ quan, tổ chức, cá nhân có thẩm quyền g
+    [934] DIEU 181 - Trách nhiệm của cơ quan, tổ chức trong giải quyết tranh chấp lao động
+        [935] KHOAN 1 - Khoản 1
+            Preview: Cơ quan quản lý nhà nước về lao động có trách nhiệm phối hợp với tổ chức đại diệ
+        [936] KHOAN 2 - Khoản 2
+            Preview: Bộ Lao động - Thương binh và Xã hội tổ chức việc tập huấn, nâng cao năng lực chu
+        [937] KHOAN 3 - Khoản 3
+            Preview: Khi có yêu cầu, cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân là đầu mối 
+    [938] DIEU 182 - Quyền và nghĩa vụ của hai bên trong giải quyết tranh chấp lao động
+        [939] KHOAN 1 - Khoản 1
+            Preview: Trong giải quyết tranh chấp lao động, các bên có quyền sau đây:
+            [940] DIEM a - Điểm a
+                Preview: Trực tiếp hoặc thông qua đại diện để tham gia vào quá trình giải quyết;
+            [941] DIEM b - Điểm b
+                Preview: Rút yêu cầu hoặc thay đổi nội dung yêu cầu;
+            [942] DIEM c - Điểm c
+                Preview: Yêu cầu thay đổi người tiến hành giải quyết tranh chấp lao động nếu có lý do cho
+        [943] KHOAN 2 - Khoản 2
+            Preview: Trong giải quyết tranh chấp lao động, các bên có nghĩa vụ sau đây:
+            [944] DIEM a - Điểm a
+                Preview: Cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình;
+            [945] DIEM b - Điểm b
+                Preview: Chấp hành thỏa thuận đã đạt được, quyết định của Ban trọng tài lao động, bản án,
+    [946] DIEU 183 - Quyền của cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động
+        Preview: Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động, trong ph
+    [947] DIEU 184 - Hòa giải viên lao động
+        [948] KHOAN 1 - Khoản 1
+            Preview: Hòa giải viên lao động là người do Chủ tịch Ủy ban nhân dân cấp tỉnh bổ nhiệm để
+        [949] KHOAN 2 - Khoản 2
+            Preview: Chính phủ quy định tiêu chuẩn, trình tự, thủ tục bổ nhiệm, chế độ, điều kiện hoạ
+    [950] DIEU 185 - Hội đồng trọng tài lao động
+        [951] KHOAN 1 - Khoản 1
+            Preview: Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định thành lập Hội đồng trọng tài lao độ
+        [952] KHOAN 2 - Khoản 2
+            Preview: Số lượng trọng tài viên lao động của Hội đồng trọng tài lao động do Chủ tịch Ủy 
+            [953] DIEM a - Điểm a
+                Preview: Tối thiểu 05 thành viên do cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân 
+            [954] DIEM b - Điểm b
+                Preview: Tối thiểu 05 thành viên do công đoàn cấp tỉnh đề cử;
+            [955] DIEM c - Điểm c
+                Preview: Tối thiểu 05 thành viên do các tổ chức đại diện của người sử dụng lao động trên 
+        [956] KHOAN 3 - Khoản 3
+            Preview: Tiêu chuẩn và chế độ làm việc của trọng tài viên lao động được quy định như sau:
+            [957] DIEM a - Điểm a
+                Preview: Trọng tài viên lao động là người hiểu biết pháp luật, có kinh nghiệm trong lĩnh 
+            [958] DIEM b - Điểm b
+                Preview: Khi đề cử trọng tài viên lao động theo quy định tại khoản 2 Điều này, cơ quan ch
+            [959] DIEM c - Điểm c
+                Preview: Thư ký Hội đồng trọng tài lao động thực hiện nhiệm vụ thường trực của Hội đồng t
+        [960] KHOAN 4 - Khoản 4
+            Preview: Khi có yêu cầu giải quyết tranh chấp lao động theo quy định tại các điều 189, 19
+            [961] DIEM a - Điểm a
+                Preview: Đại diện mỗi bên tranh chấp chọn 01 trọng tài viên trong số danh sách trọng tài 
+            [962] DIEM b - Điểm b
+                Preview: Trọng tài viên lao động do các bên lựa chọn theo quy định tại điểm a khoản này t
+            [963] DIEM c - Điểm c
+                Preview: Trường hợp các bên tranh chấp cùng lựa chọn một trọng tài viên để giải quyết tra
+        [964] KHOAN 5 - Khoản 5
+            Preview: Ban trọng tài lao động làm việc theo nguyên tắc tập thể và quyết định theo đa số
+        [965] KHOAN 6 - Khoản 6
+            Preview: Chính phủ quy định chi tiết về tiêu chuẩn, điều kiện, trình tự, thủ tục bổ nhiệm
+    [966] DIEU 186 - Cấm hành động đơn phương trong khi tranh chấp lao động đang được giải quyết
+        Preview: Khi tranh chấp lao động đang được cơ quan, tổ chức, cá nhân có thẩm quyền giải q
+    [967] DIEU 187 - Thẩm quyền giải quyết tranh chấp lao động cá nhân
+        Preview: Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động cá nhân b
+        [968] KHOAN 1 - Khoản 1
+            Preview: Hòa giải viên lao động;
+        [969] KHOAN 2 - Khoản 2
+            Preview: Hội đồng trọng tài lao động;
+        [970] KHOAN 3 - Khoản 3
+            Preview: Tòa án nhân dân.
+    [971] DIEU 188 - Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động
+        [972] KHOAN 1 - Khoản 1
+            Preview: Tranh chấp lao động cá nhân phải được giải quyết thông qua thủ tục hòa giải của 
+            [973] DIEM a - Điểm a
+                Preview: Về xử lý kỷ luật lao động theo hình thức sa thải hoặc về trường hợp bị đơn phươn
+            [974] DIEM b - Điểm b
+                Preview: Về bồi thường thiệt hại, trợ cấp khi chấm dứt hợp đồng lao động;
+            [975] DIEM c - Điểm c
+                Preview: Giữa người giúp việc gia đình với người sử dụng lao động;
+            [976] DIEM d - Điểm d
+                Preview: Về bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y
+            [977] DIEM đ - Điểm đ
+                Preview: Về bồi thường thiệt hại giữa người lao động với doanh nghiệp, tổ chức đưa người 
+            [978] DIEM e - Điểm e
+                Preview: Giữa người lao động thuê lại với người sử dụng lao động thuê lại.
+        [979] KHOAN 2 - Khoản 2
+            Preview: Trong thời hạn 05 ngày làm việc kể từ ngày hòa giải viên lao động nhận được yêu 
+        [980] KHOAN 3 - Khoản 3
+            Preview: Tại phiên họp hòa giải phải có mặt hai bên tranh chấp. Các bên tranh chấp có thể
+        [981] KHOAN 4 - Khoản 4
+            Preview: Hòa giải viên lao động có trách nhiệm hướng dẫn, hỗ trợ các bên thương lượng để 
+        [982] KHOAN 5 - Khoản 5
+            Preview: Bản sao biên bản hòa giải thành hoặc hòa giải không thành phải được gửi cho các 
+        [983] KHOAN 6 - Khoản 6
+            Preview: Trường hợp một trong các bên không thực hiện các thỏa thuận trong biên bản hòa g
+        [984] KHOAN 7 - Khoản 7
+            Preview: Trường hợp không bắt buộc phải qua thủ tục hòa giải quy định tại khoản 1 Điều nà
+            [985] DIEM a - Điểm a
+                Preview: Yêu cầu Hội đồng trọng tài lao động giải quyết theo quy định tại Điều 189 của Bộ
+            [986] DIEM b - Điểm b
+                Preview: Yêu cầu Tòa án giải quyết.
+    [987] DIEU 189 - Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
+        [988] KHOAN 1 - Khoản 1
+            Preview: Trên cơ sở đồng thuận, các bên tranh chấp có quyền yêu cầu Hội đồng trọng tài la
+        [989] KHOAN 2 - Khoản 2
+            Preview: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu giải quyết tranh ch
+        [990] KHOAN 3 - Khoản 3
+            Preview: Trong thời hạn 30 ngày kể từ ngày Ban trọng tài lao động được thành lập, Ban trọ
+        [991] KHOAN 4 - Khoản 4
+            Preview: Trường hợp hết thời hạn quy định tại khoản 2 Điều này mà Ban trọng tài lao động 
+        [992] KHOAN 5 - Khoản 5
+            Preview: Trường hợp một trong các bên không thi hành quyết định giải quyết tranh chấp của
+    [993] DIEU 190 - Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân
+        [994] KHOAN 1 - Khoản 1
+            Preview: Thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động 
+        [995] KHOAN 2 - Khoản 2
+            Preview: Thời hiệu yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp lao động cá 
+        [996] KHOAN 3 - Khoản 3
+            Preview: Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động cá nhân là 01 năm kể từ 
+        [997] KHOAN 4 - Khoản 4
+            Preview: Trường hợp người yêu cầu chứng minh được vì sự kiện bất khả kháng, trở ngại khác
+    [998] DIEU 191 - Thẩm quyền giải quyết tranh chấp lao động tập thể về quyền
+        [999] KHOAN 1 - Khoản 1
+            Preview: Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động tập thể v
+            [1000] DIEM a - Điểm a
+                Preview: Hòa giải viên lao động;
+            [1001] DIEM b - Điểm b
+                Preview: Hội đồng trọng tài lao động;
+            [1002] DIEM c - Điểm c
+                Preview: Tòa án nhân dân.
+        [1003] KHOAN 2 - Khoản 2
+            Preview: Tranh chấp lao động tập thể về quyền phải được giải quyết thông qua thủ tục hòa 
+    [1004] DIEU 192 - Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về quyền
+        [1005] KHOAN 1 - Khoản 1
+            Preview: Trình tự, thủ tục hòa giải tranh chấp lao động tập thể về quyền được thực hiện t
+        [1006] KHOAN 2 - Khoản 2
+            Preview: Trong trường hợp hòa giải không thành hoặc hết thời hạn hòa giải quy định tại kh
+            [1007] DIEM a - Điểm a
+                Preview: Yêu cầu Hội đồng trọng tài lao động giải quyết theo quy định tại Điều 193 của Bộ
+            [1008] DIEM b - Điểm b
+                Preview: Yêu cầu Tòa án giải quyết.
+    [1009] DIEU 193 - Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động
+        [1010] KHOAN 1 - Khoản 1
+            Preview: Trên cơ sở đồng thuận, các bên tranh chấp có quyền yêu cầu Hội đồng trọng tài la
+        [1011] KHOAN 2 - Khoản 2
+            Preview: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu giải quyết tranh ch
+        [1012] KHOAN 3 - Khoản 3
+            Preview: Trong thời hạn 30 ngày kể từ ngày được thành lập, căn cứ vào quy định của pháp l
+        [1013] KHOAN 4 - Khoản 4
+            Preview: Trường hợp các bên lựa chọn giải quyết tranh chấp thông qua Hội đồng trọng tài l
+        [1014] KHOAN 5 - Khoản 5
+            Preview: Khi hết thời hạn quy định tại khoản 2 Điều này mà Ban trọng tài lao động không đ
+        [1015] KHOAN 6 - Khoản 6
+            Preview: Trường hợp một trong các bên không thi hành quyết định giải quyết tranh chấp của
+    [1016] DIEU 194 - Thời hiệu yêu cầu giải quyết tranh chấp lao động tập thể về quyền
+        [1017] KHOAN 1 - Khoản 1
+            Preview: Thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động 
+        [1018] KHOAN 2 - Khoản 2
+            Preview: Thời hiệu yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp lao động tập
+        [1019] KHOAN 3 - Khoản 3
+            Preview: Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động tập thể về quyền là 01 n
+    [1020] DIEU 195 - Thẩm quyền giải quyết tranh chấp lao động tập thể về lợi ích
+        [1021] KHOAN 1 - Khoản 1
+            Preview: Tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động tập thể về lợi ích
+            [1022] DIEM a - Điểm a
+                Preview: Hòa giải viên lao động;
+            [1023] DIEM b - Điểm b
+                Preview: Hội đồng trọng tài lao động.
+        [1024] KHOAN 2 - Khoản 2
+            Preview: Tranh chấp lao động tập thể về lợi ích phải được giải quyết thông qua thủ tục hò
+    [1025] DIEU 196 - Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích
+        [1026] KHOAN 1 - Khoản 1
+            Preview: Trình tự, thủ tục hòa giải tranh chấp lao động tập thể về lợi ích được thực hiện
+        [1027] KHOAN 2 - Khoản 2
+            Preview: Trường hợp hòa giải thành, biên bản hòa giải thành phải bao gồm đầy đủ nội dung 
+        [1028] KHOAN 3 - Khoản 3
+            Preview: Trường hợp hòa giải không thành hoặc hết thời hạn hòa giải quy định tại khoản 2 
+            [1029] DIEM a - Điểm a
+                Preview: Yêu cầu Hội đồng trọng tài lao động giải quyết theo quy định tại Điều 197 của Bộ
+            [1030] DIEM b - Điểm b
+                Preview: Tổ chức đại diện người lao động có quyền tiến hành thủ tục quy định tại các điều
+    [1031] DIEU 197 - Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng trọng tài lao động
+        [1032] KHOAN 1 - Khoản 1
+            Preview: Trên cơ sở đồng thuận, các bên tranh chấp có quyền yêu cầu Hội đồng trọng tài la
+        [1033] KHOAN 2 - Khoản 2
+            Preview: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu giải quyết tranh ch
+        [1034] KHOAN 3 - Khoản 3
+            Preview: Trong thời hạn 30 ngày kể từ ngày được thành lập, căn cứ vào quy định của pháp l
+        [1035] KHOAN 4 - Khoản 4
+            Preview: Khi các bên lựa chọn giải quyết tranh chấp thông qua Hội đồng trọng tài lao động
+    [1036] DIEU 198 - Đình công
+        Preview: Đình công là sự ngừng việc tạm thời, tự nguyện và có tổ chức của người lao động 
+    [1037] DIEU 199 - Trường hợp người lao động có quyền đình công
+        Preview: Tổ chức đại diện người lao động là bên tranh chấp lao động tập thể về lợi ích có
+        [1038] KHOAN 1 - Khoản 1
+            Preview: Hòa giải không thành hoặc hết thời hạn hòa giải quy định tại khoản 2 Điều 188 củ
+        [1039] KHOAN 2 - Khoản 2
+            Preview: Ban trọng tài lao động không được thành lập hoặc thành lập nhưng không ra quyết 
+    [1040] DIEU 200 - Trình tự đình công
+        [1041] KHOAN 1 - Khoản 1
+            Preview: Lấy ý kiến về đình công theo quy định tại Điều 201 của Bộ luật này.
+        [1042] KHOAN 2 - Khoản 2
+            Preview: Ra quyết định đình công và thông báo đình công theo quy định tại Điều 202 của Bộ
+        [1043] KHOAN 3 - Khoản 3
+            Preview: Tiến hành đình công.
+    [1044] DIEU 201 - Lấy ý kiến về đình công
+        [1045] KHOAN 1 - Khoản 1
+            Preview: Trước khi tiến hành đình công, tổ chức đại diện người lao động có quyền tổ chức 
+        [1046] KHOAN 2 - Khoản 2
+            Preview: Nội dung lấy ý kiến bao gồm:
+            [1047] DIEM a - Điểm a
+                Preview: Đồng ý hay không đồng ý đình công;
+            [1048] DIEM b - Điểm b
+                Preview: Phương án của tổ chức đại diện người lao động về nội dung quy định tại các điểm 
+        [1049] KHOAN 3 - Khoản 3
+            Preview: Việc lấy ý kiến được thực hiện trực tiếp bằng hình thức lấy phiếu hoặc chữ ký ho
+        [1050] KHOAN 4 - Khoản 4
+            Preview: Thời gian, địa điểm và cách thức tiến hành lấy ý kiến về đình công do tổ chức đạ
+    [1051] DIEU 202 - Quyết định đình công và thông báo thời điểm bắt đầu đình công
+        [1052] KHOAN 1 - Khoản 1
+            Preview: Khi có trên 50% số người được lấy ý kiến đồng ý với nội dung lấy ý kiến đình côn
+        [1053] KHOAN 2 - Khoản 2
+            Preview: Quyết định đình công phải có các nội dung sau đây:
+            [1054] DIEM a - Điểm a
+                Preview: Kết quả lấy ý kiến đình công;
+            [1055] DIEM b - Điểm b
+                Preview: Thời điểm bắt đầu đình công, địa điểm đình công;
+            [1056] DIEM c - Điểm c
+                Preview: Phạm vi tiến hành đình công;
+            [1057] DIEM d - Điểm d
+                Preview: Yêu cầu của người lao động;
+            [1058] DIEM đ - Điểm đ
+                Preview: Họ tên, địa chỉ liên hệ của người đại diện cho tổ chức đại diện người lao động t
+        [1059] KHOAN 3 - Khoản 3
+            Preview: Ít nhất là 05 ngày làm việc trước ngày bắt đầu đình công, tổ chức đại diện người
+        [1060] KHOAN 4 - Khoản 4
+            Preview: Đến thời điểm bắt đầu đình công, nếu người sử dụng lao động vẫn không chấp nhận 
+    [1061] DIEU 203 - Quyền của các bên trước và trong quá trình đình công
+        [1062] KHOAN 1 - Khoản 1
+            Preview: Tiếp tục thỏa thuận để giải quyết nội dung tranh chấp lao động tập thể hoặc cùng
+        [1063] KHOAN 2 - Khoản 2
+            Preview: Tổ chức đại diện người lao động có quyền tổ chức và lãnh đạo đình công theo quy 
+            [1064] DIEM a - Điểm a
+                Preview: Rút quyết định đình công nếu chưa đình công hoặc chấm dứt đình công nếu đang đìn
+            [1065] DIEM b - Điểm b
+                Preview: Yêu cầu Tòa án tuyên bố cuộc đình công là hợp pháp.
+        [1066] KHOAN 3 - Khoản 3
+            Preview: Người sử dụng lao động có quyền sau đây:
+            [1067] DIEM a - Điểm a
+                Preview: Chấp nhận toàn bộ hoặc một phần yêu cầu và thông báo bằng văn bản cho tổ chức đạ
+            [1068] DIEM b - Điểm b
+                Preview: Đóng cửa tạm thời nơi làm việc trong thời gian đình công do không đủ điều kiện đ
+            [1069] DIEM c - Điểm c
+                Preview: Yêu cầu Tòa án tuyên bố cuộc đình công là bất hợp pháp.
+    [1070] DIEU 204 - Trường hợp đình công bất hợp pháp
+        [1071] KHOAN 1 - Khoản 1
+            Preview: Không thuộc trường hợp được đình công quy định tại Điều 199 của Bộ luật này.
+        [1072] KHOAN 2 - Khoản 2
+            Preview: Không do tổ chức đại diện người lao động có quyền tổ chức và lãnh đạo đình công.
+        [1073] KHOAN 3 - Khoản 3
+            Preview: Vi phạm các quy định về trình tự, thủ tục tiến hành đình công theo quy định của 
+        [1074] KHOAN 4 - Khoản 4
+            Preview: Khi tranh chấp lao động tập thể đang được cơ quan, tổ chức, cá nhân có thẩm quyề
+        [1075] KHOAN 5 - Khoản 5
+            Preview: Tiến hành đình công trong trường hợp không được đình công quy định tại Điều 209 
+        [1076] KHOAN 6 - Khoản 6
+            Preview: Khi đã có quyết định hoãn hoặc ngừng đình công của cơ quan có thẩm quyền theo qu
+    [1077] DIEU 205 - Thông báo quyết định đóng cửa tạm thời nơi làm việc
+        Preview: Ít nhất 03 ngày làm việc trước ngày đóng cửa tạm thời nơi làm việc, người sử dụn
+        [1078] KHOAN 1 - Khoản 1
+            Preview: Tổ chức đại diện người lao động đang tổ chức và lãnh đạo đình công;
+        [1079] KHOAN 2 - Khoản 2
+            Preview: Ủy ban nhân dân cấp tỉnh có nơi làm việc dự kiến đóng cửa;
+        [1080] KHOAN 3 - Khoản 3
+            Preview: Ủy ban nhân dân cấp huyện có nơi làm việc dự kiến đóng cửa.
+    [1081] DIEU 206 - Trường hợp cấm đóng cửa tạm thời nơi làm việc
+        [1082] KHOAN 1 - Khoản 1
+            Preview: Trước 12 giờ so với thời điểm bắt đầu đình công ghi trong quyết định đình công.
+        [1083] KHOAN 2 - Khoản 2
+            Preview: Sau khi người lao động ngừng đình công.
+    [1084] DIEU 207 - Tiền lương và các quyền lợi hợp pháp khác của người lao động trong thời gian đình công
+        [1085] KHOAN 1 - Khoản 1
+            Preview: Người lao động không tham gia đình công nhưng phải ngừng việc vì lý do đình công
+        [1086] KHOAN 2 - Khoản 2
+            Preview: Người lao động tham gia đình công không được trả lương và các quyền lợi khác the
+    [1087] DIEU 208 - Các hành vi bị nghiêm cấm trước, trong và sau khi đình công
+        [1088] KHOAN 1 - Khoản 1
+            Preview: Cản trở việc thực hiện quyền đình công hoặc kích động, lôi kéo, ép buộc người la
+        [1089] KHOAN 2 - Khoản 2
+            Preview: Dùng bạo lực; hủy hoại máy, thiết bị, tài sản của người sử dụng lao động.
+        [1090] KHOAN 3 - Khoản 3
+            Preview: Xâm phạm trật tự, an toàn công cộng.
+        [1091] KHOAN 4 - Khoản 4
+            Preview: Chấm dứt hợp đồng lao động hoặc xử lý kỷ luật lao động đối với người lao động, n
+        [1092] KHOAN 5 - Khoản 5
+            Preview: Trù dập, trả thù người lao động tham gia đình công, người lãnh đạo đình công.
+        [1093] KHOAN 6 - Khoản 6
+            Preview: Lợi dụng đình công để thực hiện hành vi vi phạm pháp luật.
+    [1094] DIEU 209 - Nơi sử dụng lao động không được đình công
+        [1095] KHOAN 1 - Khoản 1
+            Preview: Không được đình công ở nơi sử dụng lao động mà việc đình công có thể đe dọa đến 
+        [1096] KHOAN 2 - Khoản 2
+            Preview: Chính phủ quy định danh mục nơi sử dụng lao động không được đình công và việc gi
+    [1097] DIEU 210 - Quyết định hoãn, ngừng đình công
+        [1098] KHOAN 1 - Khoản 1
+            Preview: Khi xét thấy cuộc đình công có nguy cơ gây thiệt hại nghiêm trọng cho nền kinh t
+        [1099] KHOAN 2 - Khoản 2
+            Preview: Chính phủ quy định chi tiết việc hoãn, ngừng đình công và giải quyết quyền lợi c
+    [1100] DIEU 211 - Xử lý cuộc đình công không đúng trình tự, thủ tục
+        Preview: Trong thời hạn 12 giờ kể từ khi nhận được thông báo về cuộc đình công không tuân
+[1101] CHUONG XV - QUẢN LÝ NHÀ NƯỚC VỀ LAO ĐỘNG
+    Preview: QUẢN LÝ NHÀ NƯỚC VỀ LAO ĐỘNG
+    [1102] DIEU 212 - Nội dung quản lý nhà nước về lao động
+        [1103] KHOAN 1 - Khoản 1
+            Preview: Ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về lao động.
+        [1104] KHOAN 2 - Khoản 2
+            Preview: Theo dõi, thống kê, cung cấp thông tin về cung cầu và biến động cung, cầu lao độ
+        [1105] KHOAN 3 - Khoản 3
+            Preview: Tổ chức và tiến hành nghiên cứu khoa học về lao động; thống kê, thông tin về lao
+        [1106] KHOAN 4 - Khoản 4
+            Preview: Xây dựng các cơ chế, thiết chế hỗ trợ phát triển quan hệ lao động tiến bộ, hài h
+        [1107] KHOAN 5 - Khoản 5
+            Preview: Kiểm tra, thanh tra, xử lý vi phạm pháp luật và giải quyết khiếu nại, tố cáo về 
+        [1108] KHOAN 6 - Khoản 6
+            Preview: Hợp tác quốc tế về lao động.
+    [1109] DIEU 213 - Thẩm quyền quản lý nhà nước về lao động
+        [1110] KHOAN 1 - Khoản 1
+            Preview: Chính phủ thống nhất quản lý nhà nước về lao động trong phạm vi cả nước.
+        [1111] KHOAN 2 - Khoản 2
+            Preview: Bộ Lao động - Thương binh và Xã hội chịu trách nhiệm trước Chính phủ thực hiện q
+        [1112] KHOAN 3 - Khoản 3
+            Preview: Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm
+        [1113] KHOAN 4 - Khoản 4
+            Preview: Ủy ban nhân dân các cấp thực hiện quản lý nhà nước về lao động trong phạm vi địa
+[1114] CHUONG XVI - THANH TRA LAO ĐỘNG, XỬ LÝ VI PHẠM PHÁP LUẬT VỀ LAO ĐỘNG
+    Preview: THANH TRA LAO ĐỘNG, XỬ LÝ VI PHẠM PHÁP LUẬT VỀ LAO ĐỘNG
+    [1115] DIEU 214 - Nội dung thanh tra lao động
+        [1116] KHOAN 1 - Khoản 1
+            Preview: Thanh tra việc chấp hành quy định của pháp luật về lao động.
+        [1117] KHOAN 2 - Khoản 2
+            Preview: Điều tra tai nạn lao động và vi phạm an toàn, vệ sinh lao động.
+        [1118] KHOAN 3 - Khoản 3
+            Preview: Tham gia hướng dẫn áp dụng hệ thống tiêu chuẩn, quy chuẩn kỹ thuật về điều kiện 
+        [1119] KHOAN 4 - Khoản 4
+            Preview: Giải quyết khiếu nại, tố cáo về lao động theo quy định của pháp luật.
+        [1120] KHOAN 5 - Khoản 5
+            Preview: Xử lý theo thẩm quyền và kiến nghị cơ quan có thẩm quyền xử lý vi phạm pháp luật
+    [1121] DIEU 215 - Thanh tra chuyên ngành về lao động
+        [1122] KHOAN 1 - Khoản 1
+            Preview: Thẩm quyền thanh tra chuyên ngành về lao động thực hiện theo quy định của Luật T
+        [1123] KHOAN 2 - Khoản 2
+            Preview: Việc thanh tra an toàn, vệ sinh lao động thực hiện theo quy định của Luật An toà
+    [1124] DIEU 216 - Quyền của thanh tra lao động
+        Preview: Thanh tra lao động có quyền thanh tra, điều tra nơi thuộc đối tượng, phạm vi tha
+    [1125] DIEU 217 - Xử lý vi phạm
+        [1126] KHOAN 1 - Khoản 1
+            Preview: Người nào có hành vi vi phạm quy định của Bộ luật này thì tùy theo tính chất, mứ
+        [1127] KHOAN 2 - Khoản 2
+            Preview: Khi đã có quyết định của Tòa án về cuộc đình công là bất hợp pháp thì người lao 
+        [1128] KHOAN 3 - Khoản 3
+            Preview: Người lợi dụng đình công gây mất trật tự, an toàn công cộng, làm tổn hại máy, th
+[1129] CHUONG XVII - ĐIỀU KHOẢN THI HÀNH
+    Preview: ĐIỀU KHOẢN THI HÀNH
+    [1130] DIEU 218 - Miễn, giảm thủ tục đối với trường hợp sử dụng dưới 10 lao động
+        Preview: Người sử dụng lao động sử dụng dưới 10 người lao động thực hiện quy định của Bộ 
+    [1131] DIEU 219 - Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+        [1132] KHOAN 1 - Khoản 1
+            Preview: Sửa đổi, bổ sung một số điều của Luật Bảo hiểm xã hội số 58/2014/QH13 đã được sử
+            [1133] DIEM a - Điểm a
+                Preview: Sửa đổi, bổ sung Điều 54 như sau: “Điều 54. Điều kiện hưởng lương hưu
+        [1134] KHOAN 1 - Khoản 1
+            Preview: Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Lu
+            [1135] DIEM a - Điểm a
+                Preview: Đủ tuổi theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động;
+            [1136] DIEM b - Điểm b
+                Preview: Đủ tuổi theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm 
+            [1137] DIEM c - Điểm c
+                Preview: Người lao động có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu của người la
+            [1138] DIEM d - Điểm d
+                Preview: Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ đư
+        [1139] KHOAN 2 - Khoản 2
+            Preview: Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ vi
+            [1140] DIEM a - Điểm a
+                Preview: Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 1
+            [1141] DIEM b - Điểm b
+                Preview: Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 3 Điều 1
+            [1142] DIEM c - Điểm c
+                Preview: Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ đư
+        [1143] KHOAN 3 - Khoản 3
+            Preview: Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trá
+        [1144] KHOAN 4 - Khoản 4
+            Preview: Điều kiện về tuổi hưởng lương hưu đối với một số trường hợp đặc biệt theo quy đị
+            [1145] DIEM b - Điểm b
+                Preview: Sửa đổi, bổ sung Điều 55 như sau: “Điều 55. Điều kiện hưởng lương hưu khi suy gi
+        [1146] KHOAN 1 - Khoản 1
+            Preview: Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Lu
+            [1147] DIEM a - Điểm a
+                Preview: Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 1
+            [1148] DIEM b - Điểm b
+                Preview: Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 1
+            [1149] DIEM c - Điểm c
+                Preview: Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm 
+        [1150] KHOAN 2 - Khoản 2
+            Preview: Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này khi ngh
+            [1151] DIEM a - Điểm a
+                Preview: Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 1
+            [1152] DIEM b - Điểm b
+                Preview: Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm 
+            [1153] DIEM c - Điểm c
+                Preview: Sửa đổi, bổ sung khoản 1 Điều 73 như sau: “1. Người lao động hưởng lương hưu khi
+            [1154] DIEM a - Điểm a
+                Preview: Đủ tuổi nghỉ hưu theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động;
+            [1155] DIEM b - Điểm b
+                Preview: Đủ 20 năm đóng bảo hiểm xã hội trở lên.”.
+        [1156] KHOAN 2 - Khoản 2
+            Preview: Sửa đổi, bổ sung Điều 32 của Bộ luật Tố tụng dân sự số 92/2015/QH13 như sau:
+            [1157] DIEM a - Điểm a
+                Preview: Sửa đổi, bổ sung tên điều, khoản 1; bổ sung các khoản 1a, 1b và 1c vào sau khoản
+        [1158] KHOAN 1 - Khoản 1
+            Preview: Tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động phải 
+            [1159] DIEM a - Điểm a
+                Preview: Về xử lý kỷ luật lao động theo hình thức sa thải hoặc về trường hợp bị đơn phươn
+            [1160] DIEM b - Điểm b
+                Preview: Về bồi thường thiệt hại, trợ cấp khi chấm dứt hợp đồng lao động;
+            [1161] DIEM c - Điểm c
+                Preview: Giữa người giúp việc gia đình với người sử dụng lao động;
+            [1162] DIEM d - Điểm d
+                Preview: Về bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y
+            [1163] DIEM đ - Điểm đ
+                Preview: Về bồi thường thiệt hại giữa người lao động với doanh nghiệp, tổ chức đưa người 
+            [1164] DIEM e - Điểm e
+                Preview: Giữa người lao động thuê lại với người sử dụng lao động thuê lại. 1a. Tranh chấp
+            [1165] DIEM b - Điểm b
+                Preview: Bãi bỏ khoản 2 Điều 32.
+    [1166] DIEU 220 - Hiệu lực thi hành
+        [1167] KHOAN 1 - Khoản 1
+            Preview: Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021. Bộ luật Lao động 
+        [1168] KHOAN 2 - Khoản 2
+            Preview: Kể từ ngày Bộ luật này có hiệu lực thi hành, hợp đồng lao động, thỏa ước lao độn
+        [1169] KHOAN 3 - Khoản 3
+            Preview: Chế độ lao động đối với cán bộ, công chức, viên chức, người thuộc lực lượng Quân
